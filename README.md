@@ -18,13 +18,13 @@ The central aim of this analysis is to understand how support needs and resource
 
 A real-world use case could be for an NDIS service provider seeking data-driven insights to expand their services and target high-need areas.
 
-### Tools Used
+## Tools Used
 
 - SQL Server Management Studio (SSMS)
 - Power BI
 - Microsoft Excel (for initial data review)
 
-### Dataset Description
+## Dataset Description
 
 The dataset combines publicly available data from the NDIS and the Australian Bureau of Statistics. It includes::
 
