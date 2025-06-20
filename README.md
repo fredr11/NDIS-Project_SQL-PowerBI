@@ -2,8 +2,6 @@
 
 A data analysis project exploring NDIS budget and participant numbers across Western Australia. Built using SQL (SSMS) for data cleanup and transformation, and Power BI for visualization.
 
-### Report Link: (Coming Soon) 
-
 ## Project Objective
 
 This report aims to provide insight into NDIS funding and NDIS participant numbers in Western Australia between 2023 and 2024. Specifically, it helps answer the following questions:
