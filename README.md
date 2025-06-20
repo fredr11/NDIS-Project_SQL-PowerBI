@@ -9,10 +9,10 @@ A data analysis project exploring NDIS budget and participant numbers across Wes
 This report aims to provide insight into NDIS funding and NDIS participant numbers in Western Australia between 2023 and 2024. Specifically, it helps answer the following questions:
     
   1. Which age groups and disability types receive the most funding, and how does this vary across districts?
-	2.	What are the most common disability types in WA, and how do they differ in prevalence versus funding?
-	3.	How are participant numbers and budgets changing across regions and over time?
-	4.	Which LGAs or service districts stand out as outliers in participant numbers or funding per capita?
-	5.	How does remoteness or First Nations status intersect with disability support and budget allocation?
+  2. What are the most common disability types in WA, and how do they differ in prevalence versus funding?
+  3. How are participant numbers and budgets changing across regions and over time?
+  4. Which LGAs or service districts stand out as outliers in participant numbers or funding per capita?
+  5. How does remoteness or First Nations status intersect with disability support and budget allocation?
 
 The central aim of this analysis is to understand how support needs and resource allocation vary across regions, demographics, and time. This includes uncovering trends, outliers, and potential gaps in the provision of disability services across WA.
 
