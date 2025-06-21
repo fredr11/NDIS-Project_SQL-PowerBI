@@ -68,7 +68,7 @@ All data was already anonymized and has been further aggregated.
 - Participant numbers are rising steadily across WA, particularly in LGAs with populations under 5,000, where disability rates are growing faster than general population growth.
 
 ## Access
-- SQL Queries: See the `/SQL` folder
+- SQL Queries: See the `/SQL Queries` folder
 - Power BI Report: `/Power BI` folder
 
 ## About Me
