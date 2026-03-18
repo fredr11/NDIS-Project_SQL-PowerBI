@@ -1,78 +1,173 @@
-# NDIS Reporting Project (SQL + Power BI)
+# NDIS Funding & Participant Analysis (SQL + Power BI)
 
-A data analysis project exploring NDIS budget and participant numbers across Western Australia. Built using SQL (SSMS) for data cleanup and transformation, and Power BI for visualization.
+## Project Overview
+This project analyzes publicly available NDIS and ABS datasets to understand how disability support demand and funding allocation vary across time, geography, and demographics.
 
-## Project Objective
+The analysis focuses on identifying where demand is growing fastest, how funding is distributed, and where potential mismatches exist, enabling more informed decisions around service delivery and resource planning.
 
-This report aims to provide insight into NDIS funding and NDIS participant numbers in Western Australia between 2023 and 2024. Specifically, it helps answer the following questions:
-    
-  1. Which age groups and disability types receive the most funding, and how does this vary across districts?
-  2. What are the most common disability types in WA, and how do they differ in prevalence versus funding?
-  3. How are participant numbers and budgets changing across regions and over time?
-  4. Which LGAs or service districts stand out as outliers in participant numbers or funding per capita?
-  5. How does remoteness or First Nations status intersect with disability support and budget allocation?
+---
 
-The central aim of this analysis is to understand how support needs and resource allocation vary across regions, demographics, and time. This includes uncovering trends, outliers, and potential gaps in the provision of disability services across WA.
+## Business Context
+Understanding how disability support demand evolves is critical for:
+- Service providers deciding where to expand  
+- Planners and policymakers allocating funding  
+- Organizations ensuring equitable service access  
 
-A real-world use case could be for an NDIS service provider seeking data-driven insights to expand their services and target high-need areas.
+This project simulates a real-world analytics workflow to support those decisions using data.
 
-## Tools Used
+---
 
-- SQL Server Management Studio (SSMS)
-- Power BI
-- Microsoft Excel (for initial data review)
+## Signature Insight
+In several LGAs, NDIS participant growth is outpacing population growth, indicating increasing service demand that is not purely driven by population changes.
 
-## Dataset Description
+These areas are likely to experience increased pressure on services and funding and represent key targets for strategic planning and investment.
 
-The dataset combines publicly available data from the NDIS and the Australian Bureau of Statistics. It includes::
+---
 
-- Geographical Data
-    - Correspondence between Mesh Blocks and Local Government Areas
-    - Correspondence between Local Government Areas and Service Districts
-    - Correspondence between Mesh Blocks and Statistical Areas
-    - Correspondence between Mesh Blocks and Post Codes
-    - Correspondence Between Suburb Names and Remoteness Level based on the Modified Monash Model
-- Budgets
-    - 2023 Count and Budget of NDIS Participants by Service District, Age Group, and Disability Type
-    - 2024 Count and Budget of NDIS Participants by Service District, Age Group, and Disability Type
-- Count of NDIS Participants by Local Government Areas
-- Count and Budget of First Nations NDIS Participants by State and Remoteness of Location
-- Count of Population in all Local Government Areas by Age Group and Gender
+## Key Business Questions
 
-All data was already anonymized and has been further aggregated.
+### Growth and Forecasting
+- How is the number of NDIS participants changing over time?  
+- Can future participant growth be projected at the district level?  
+- Which LGAs are experiencing the fastest growth?  
 
-## Data Preparation Highlights
+### Funding and Distribution
+- Which groups receive the highest average budgets?  
+- Does funding vary by region, age group, or disability type?  
 
-**In SQL (SSMS):**
-- Cleaned and joined geographical, budget, participant, and population tables
-- Filtered to WA records and aligned naming conventions across datasets
-- Aggregated and reshaped data for analysis across time, region, and disability type
+### Patterns and Anomalies
+- Where is participant growth outpacing population growth?  
+- Are there areas with unusually high funding relative to participation?  
+- How do remoteness and demographics affect funding and participation?  
 
-**In Power BI:**
-- Built calculated columns and measures for budget per participant, growth rates, and distribution patterns
-- Normalized classifications (e.g. age groups, remoteness levels) for consistency
-- Designed interactive dashboards to enable slicing by location, year, and demographics
+---
 
-## Dashboards
-**Top Numbers**
-![Top Numbers](https://github.com/user-attachments/assets/ba6d3ad3-7631-4e57-885e-8df19cde8b8e)
-**Overview**
-![Overview](https://github.com/user-attachments/assets/f18da841-09d6-48a7-b967-ae09eef16a63)
-**Insights**
-![Insights](https://github.com/user-attachments/assets/17060933-1e19-4ae9-8fb9-5643da841b6c)
+## Tools and Technologies
+- SQL for data cleaning, transformation, and joins  
+- Power BI for data modeling, DAX measures, and visualization  
+- Public datasets from NDIS and ABS  
 
-## Key Takeaways
-- In both 2023 and 2024, participants aged 55–64 received the highest average funding across WA. The Central North Metro district had the highest overall budgets.
-- Autism, psychological disabilities, and intellectual disabilities are the primary disabilities affecting most West Australians across all age groups. It is cerebral palsy, spinal cord injury, and other neurological disabilities that get the most funding however.
-- Of all districts, South Metro stands out with a high number of NDIS participants but a relatively low budget per capita. The opposite is true for Goldfields-Esperance and Kimberly-Pilbara, where NDIS participant numbers are much lower but funding per capita is especially high.
-- Participant numbers are rising steadily across WA, particularly in LGAs with populations under 5,000, where disability rates are growing faster than general population growth.
+---
 
-## Access
-- SQL Queries: See the `/SQL Queries` folder
-- Power BI Report: `/Power BI` folder
+## Data Pipeline
+The project follows a structured and reproducible workflow:
 
-## About Me
-Hi, I'm Fred — a data-driven finance professional based in Perth, WA, transitioning into analytics.  
-This project reflects real-world insights based on the sector knowledge I have my current role.
+Raw data (NDIS and ABS)  
+→ SQL cleaning and validation  
+→ Aggregation and normalization  
+→ Dataset joins (LGA, district, demographics)  
+→ Power BI data model  
+→ DAX measures and KPIs  
+→ Interactive dashboards  
 
-[LinkedIn](https://linkedin.com/in/fred-rinaldo)
+---
+
+## Data Preparation (SQL)
+
+### Datasets Used
+- Budgets: annualized funding per participant  
+- Participants: counts by LGA, age group, and year  
+- Population: baseline population metrics  
+- Geographical mapping: LGA to Service District alignment  
+- First Nations participants: subgroup analysis by remoteness  
+
+### Key Transformations
+- Standardized categorical values across datasets  
+- Resolved mismatched granularity (LGA vs district vs remoteness)  
+- Aggregated data to enable valid comparisons  
+- Excluded incomplete or suppressed values (e.g. "<11")  
+- Created analysis-ready tables for reporting  
+
+Example:
+Participant growth metrics were derived by joining participant counts with ABS population data and calculating growth rates across time (see Participants.sql and Population.sql).
+
+---
+
+## Dashboard
+
+### Insights
+Insights
+
+### Overview
+Overview
+
+### Top Metrics
+Top Numbers
+
+The report supports filtering by:
+- Service District  
+- LGA  
+- Disability Type  
+- Age Group  
+- Remoteness  
+
+---
+
+## Key Insights
+
+### Participant Growth
+NDIS participant numbers show a clear upward trend, with forecasts indicating continued growth into 2026. Growth is not uniform, with certain LGAs expanding significantly faster than others.
+
+### Growth vs Population Mismatch
+Multiple LGAs show participant growth exceeding population growth, indicating increasing demand intensity rather than population-driven change.
+
+### Funding Distribution
+Average budgets vary significantly across disability types, age groups, and service districts, suggesting non-uniform allocation patterns.
+
+### Geographic Patterns
+Participant distribution is concentrated in specific regions, with some areas combining high growth and high funding levels.
+
+### First Nations and Remoteness
+First Nations participant trends vary by remoteness, though analysis is limited by aggregated and suppressed data.
+
+---
+
+## Business Implications
+This analysis supports:
+- Identifying high-growth areas for service expansion  
+- Adjusting funding where demand is accelerating  
+- Anticipating future service pressure using forecasts  
+- Investigating regional disparities in funding allocation  
+
+---
+
+## Data Considerations
+- All data is public, aggregated, and anonymized  
+- No personally identifiable information is used  
+- Some datasets differ in granularity (LGA vs district vs remoteness)  
+- Small populations were excluded where data was suppressed  
+
+Despite these limitations, the dataset supports robust trend analysis.
+
+---
+
+## Analytical Approach
+This project demonstrates:
+- Multi-source data integration using SQL  
+- Handling real-world data quality issues  
+- Aligning datasets with different granularities  
+- Creating meaningful KPIs such as growth rates and weighted averages  
+- Translating raw data into actionable insights  
+
+---
+
+## Future Improvements
+- Implement a star schema for improved scalability  
+- Add advanced DAX measures  
+- Incorporate updated ABS population data  
+- Improve First Nations analysis with more granular datasets  
+- Simulate automated data pipelines and incremental loads  
+
+---
+
+## Summary
+This project demonstrates an end-to-end analytics workflow:
+Raw data → SQL transformation → Data modeling → Insight generation → Visualization
+
+It reflects the ability to work with real-world data and translate it into meaningful, decision-supporting insights.
+
+---
+
+## Author
+Fred Rinaldo  
+Business Analytics | Data Analysis | SQL | Power BI
