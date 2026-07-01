@@ -1,0 +1,1454 @@
+Date,Service_District,Disability,Age_Group,Annualized_Budget,Participants
+2023-12-31,Central North Metro,ABI,25-34,205000,15
+2023-12-31,Central North Metro,ABI,35-44,194000,28
+2023-12-31,Central North Metro,ABI,45-54,239000,56
+2023-12-31,Central North Metro,ABI,55-64,200000,68
+2023-12-31,Central North Metro,ABI,65+,224000,28
+2023-12-31,Central North Metro,Autism,0-14,30000,867
+2023-12-31,Central North Metro,Autism,0-14,31000,147
+2023-12-31,Central North Metro,Autism,15-24,42000,336
+2023-12-31,Central North Metro,Autism,15-24,76000,287
+2023-12-31,Central North Metro,Autism,25-34,94000,235
+2023-12-31,Central North Metro,Autism,35-44,96000,90
+2023-12-31,Central North Metro,Autism,45-54,92000,47
+2023-12-31,Central North Metro,Cerebral Palsy,0-14,87000,40
+2023-12-31,Central North Metro,Cerebral Palsy,15-24,112000,22
+2023-12-31,Central North Metro,Cerebral Palsy,15-24,239000,25
+2023-12-31,Central North Metro,Cerebral Palsy,25-34,188000,36
+2023-12-31,Central North Metro,Cerebral Palsy,35-44,324000,32
+2023-12-31,Central North Metro,Cerebral Palsy,45-54,336000,37
+2023-12-31,Central North Metro,Cerebral Palsy,55-64,337000,39
+2023-12-31,Central North Metro,Developmental delay,0-14,20000,44
+2023-12-31,Central North Metro,Developmental delay,0-14,26000,352
+2023-12-31,Central North Metro,Down Syndrome,0-14,42000,18
+2023-12-31,Central North Metro,Down Syndrome,15-24,63000,11
+2023-12-31,Central North Metro,Down Syndrome,15-24,167000,17
+2023-12-31,Central North Metro,Down Syndrome,25-34,153000,33
+2023-12-31,Central North Metro,Down Syndrome,35-44,146000,32
+2023-12-31,Central North Metro,Down Syndrome,45-54,271000,11
+2023-12-31,Central North Metro,Global developmental delay,0-14,21000,47
+2023-12-31,Central North Metro,Global developmental delay,0-14,28000,87
+2023-12-31,Central North Metro,Hearing Impairment,0-14,11000,61
+2023-12-31,Central North Metro,Hearing Impairment,0-14,17000,46
+2023-12-31,Central North Metro,Hearing Impairment,15-24,9000,15
+2023-12-31,Central North Metro,Hearing Impairment,15-24,12000,21
+2023-12-31,Central North Metro,Hearing Impairment,25-34,8000,28
+2023-12-31,Central North Metro,Hearing Impairment,35-44,27000,23
+2023-12-31,Central North Metro,Hearing Impairment,45-54,29000,22
+2023-12-31,Central North Metro,Hearing Impairment,55-64,25000,45
+2023-12-31,Central North Metro,Hearing Impairment,65+,38000,11
+2023-12-31,Central North Metro,Intellectual Disability,0-14,48000,87
+2023-12-31,Central North Metro,Intellectual Disability,0-14,49000,18
+2023-12-31,Central North Metro,Intellectual Disability,15-24,90000,50
+2023-12-31,Central North Metro,Intellectual Disability,15-24,155000,106
+2023-12-31,Central North Metro,Intellectual Disability,25-34,143000,147
+2023-12-31,Central North Metro,Intellectual Disability,35-44,148000,119
+2023-12-31,Central North Metro,Intellectual Disability,45-54,170000,108
+2023-12-31,Central North Metro,Intellectual Disability,55-64,156000,118
+2023-12-31,Central North Metro,Intellectual Disability,65+,214000,57
+2023-12-31,Central North Metro,Multiple Sclerosis,45-54,90000,30
+2023-12-31,Central North Metro,Multiple Sclerosis,55-64,111000,47
+2023-12-31,Central North Metro,Multiple Sclerosis,65+,162000,16
+2023-12-31,Central North Metro,Other,0-14,14000,17
+2023-12-31,Central North Metro,Other,35-44,123000,14
+2023-12-31,Central North Metro,Other,45-54,127000,17
+2023-12-31,Central North Metro,Other,55-64,192000,42
+2023-12-31,Central North Metro,Other,65+,138000,11
+2023-12-31,Central North Metro,Other Neurological,0-14,91000,22
+2023-12-31,Central North Metro,Other Neurological,15-24,237000,14
+2023-12-31,Central North Metro,Other Neurological,25-34,342000,19
+2023-12-31,Central North Metro,Other Neurological,35-44,219000,17
+2023-12-31,Central North Metro,Other Neurological,45-54,175000,38
+2023-12-31,Central North Metro,Other Neurological,55-64,216000,112
+2023-12-31,Central North Metro,Other Neurological,65+,163000,70
+2023-12-31,Central North Metro,Other Physical,0-14,82000,11
+2023-12-31,Central North Metro,Other Physical,25-34,104000,13
+2023-12-31,Central North Metro,Other Physical,35-44,146000,31
+2023-12-31,Central North Metro,Other Physical,45-54,129000,44
+2023-12-31,Central North Metro,Other Physical,55-64,104000,54
+2023-12-31,Central North Metro,Other Physical,65+,89000,34
+2023-12-31,Central North Metro,Psychosocial disability,15-24,121000,19
+2023-12-31,Central North Metro,Psychosocial disability,25-34,117000,134
+2023-12-31,Central North Metro,Psychosocial disability,35-44,112000,198
+2023-12-31,Central North Metro,Psychosocial disability,45-54,91000,281
+2023-12-31,Central North Metro,Psychosocial disability,55-64,107000,284
+2023-12-31,Central North Metro,Psychosocial disability,65+,101000,86
+2023-12-31,Central North Metro,Spinal Cord Injury,35-44,307000,12
+2023-12-31,Central North Metro,Spinal Cord Injury,45-54,277000,27
+2023-12-31,Central North Metro,Spinal Cord Injury,55-64,319000,29
+2023-12-31,Central North Metro,Spinal Cord Injury,65+,221000,18
+2023-12-31,Central North Metro,Stroke,45-54,154000,19
+2023-12-31,Central North Metro,Stroke,55-64,155000,33
+2023-12-31,Central North Metro,Stroke,65+,115000,15
+2023-12-31,Central North Metro,Visual Impairment,25-34,68000,16
+2023-12-31,Central North Metro,Visual Impairment,45-54,48000,17
+2023-12-31,Central North Metro,Visual Impairment,55-64,55000,27
+2023-12-31,Central North Metro,Visual Impairment,65+,69000,19
+2023-12-31,Central South Metro,ABI,25-34,163000,18
+2023-12-31,Central South Metro,ABI,35-44,167000,32
+2023-12-31,Central South Metro,ABI,45-54,210000,55
+2023-12-31,Central South Metro,ABI,55-64,274000,59
+2023-12-31,Central South Metro,ABI,65+,202000,26
+2023-12-31,Central South Metro,Autism,0-14,27000,1239
+2023-12-31,Central South Metro,Autism,0-14,32000,178
+2023-12-31,Central South Metro,Autism,15-24,37000,511
+2023-12-31,Central South Metro,Autism,15-24,74000,376
+2023-12-31,Central South Metro,Autism,25-34,94000,237
+2023-12-31,Central South Metro,Autism,35-44,108000,80
+2023-12-31,Central South Metro,Autism,45-54,92000,44
+2023-12-31,Central South Metro,Cerebral Palsy,0-14,80000,46
+2023-12-31,Central South Metro,Cerebral Palsy,0-14,91000,20
+2023-12-31,Central South Metro,Cerebral Palsy,15-24,103000,24
+2023-12-31,Central South Metro,Cerebral Palsy,15-24,179000,28
+2023-12-31,Central South Metro,Cerebral Palsy,25-34,183000,33
+2023-12-31,Central South Metro,Cerebral Palsy,35-44,267000,30
+2023-12-31,Central South Metro,Cerebral Palsy,45-54,280000,14
+2023-12-31,Central South Metro,Developmental delay,0-14,21000,74
+2023-12-31,Central South Metro,Developmental delay,0-14,24000,391
+2023-12-31,Central South Metro,Down Syndrome,0-14,37000,14
+2023-12-31,Central South Metro,Down Syndrome,0-14,44000,13
+2023-12-31,Central South Metro,Down Syndrome,15-24,64000,13
+2023-12-31,Central South Metro,Down Syndrome,15-24,105000,13
+2023-12-31,Central South Metro,Down Syndrome,25-34,143000,27
+2023-12-31,Central South Metro,Down Syndrome,35-44,125000,21
+2023-12-31,Central South Metro,Down Syndrome,45-54,255000,18
+2023-12-31,Central South Metro,Global developmental delay,0-14,23000,59
+2023-12-31,Central South Metro,Global developmental delay,0-14,55000,76
+2023-12-31,Central South Metro,Hearing Impairment,0-14,12000,84
+2023-12-31,Central South Metro,Hearing Impairment,0-14,18000,42
+2023-12-31,Central South Metro,Hearing Impairment,15-24,9000,29
+2023-12-31,Central South Metro,Hearing Impairment,15-24,9000,37
+2023-12-31,Central South Metro,Hearing Impairment,25-34,15000,38
+2023-12-31,Central South Metro,Hearing Impairment,35-44,19000,30
+2023-12-31,Central South Metro,Hearing Impairment,45-54,19000,29
+2023-12-31,Central South Metro,Hearing Impairment,55-64,22000,37
+2023-12-31,Central South Metro,Hearing Impairment,65+,23000,18
+2023-12-31,Central South Metro,Intellectual Disability,0-14,44000,129
+2023-12-31,Central South Metro,Intellectual Disability,0-14,158000,24
+2023-12-31,Central South Metro,Intellectual Disability,15-24,73000,98
+2023-12-31,Central South Metro,Intellectual Disability,15-24,121000,205
+2023-12-31,Central South Metro,Intellectual Disability,25-34,140000,205
+2023-12-31,Central South Metro,Intellectual Disability,35-44,149000,132
+2023-12-31,Central South Metro,Intellectual Disability,45-54,181000,94
+2023-12-31,Central South Metro,Intellectual Disability,55-64,172000,101
+2023-12-31,Central South Metro,Intellectual Disability,65+,185000,33
+2023-12-31,Central South Metro,Multiple Sclerosis,35-44,40000,13
+2023-12-31,Central South Metro,Multiple Sclerosis,45-54,87000,30
+2023-12-31,Central South Metro,Multiple Sclerosis,55-64,136000,48
+2023-12-31,Central South Metro,Multiple Sclerosis,65+,179000,24
+2023-12-31,Central South Metro,Other,0-14,31000,19
+2023-12-31,Central South Metro,Other,45-54,143000,20
+2023-12-31,Central South Metro,Other,55-64,132000,30
+2023-12-31,Central South Metro,Other,65+,162000,23
+2023-12-31,Central South Metro,Other Neurological,0-14,81000,21
+2023-12-31,Central South Metro,Other Neurological,15-24,205000,16
+2023-12-31,Central South Metro,Other Neurological,25-34,238000,22
+2023-12-31,Central South Metro,Other Neurological,35-44,145000,20
+2023-12-31,Central South Metro,Other Neurological,45-54,208000,53
+2023-12-31,Central South Metro,Other Neurological,55-64,213000,111
+2023-12-31,Central South Metro,Other Neurological,65+,202000,54
+2023-12-31,Central South Metro,Other Physical,0-14,37000,21
+2023-12-31,Central South Metro,Other Physical,15-24,51000,11
+2023-12-31,Central South Metro,Other Physical,25-34,106000,18
+2023-12-31,Central South Metro,Other Physical,35-44,77000,18
+2023-12-31,Central South Metro,Other Physical,45-54,102000,49
+2023-12-31,Central South Metro,Other Physical,55-64,70000,64
+2023-12-31,Central South Metro,Other Physical,65+,97000,43
+2023-12-31,Central South Metro,Psychosocial disability,15-24,209000,14
+2023-12-31,Central South Metro,Psychosocial disability,25-34,105000,108
+2023-12-31,Central South Metro,Psychosocial disability,35-44,98000,148
+2023-12-31,Central South Metro,Psychosocial disability,45-54,79000,159
+2023-12-31,Central South Metro,Psychosocial disability,55-64,90000,155
+2023-12-31,Central South Metro,Psychosocial disability,65+,74000,51
+2023-12-31,Central South Metro,Spinal Cord Injury,25-34,249000,11
+2023-12-31,Central South Metro,Spinal Cord Injury,35-44,265000,20
+2023-12-31,Central South Metro,Spinal Cord Injury,45-54,306000,18
+2023-12-31,Central South Metro,Spinal Cord Injury,55-64,167000,30
+2023-12-31,Central South Metro,Spinal Cord Injury,65+,201000,13
+2023-12-31,Central South Metro,Stroke,45-54,106000,15
+2023-12-31,Central South Metro,Stroke,55-64,175000,26
+2023-12-31,Central South Metro,Stroke,65+,145000,21
+2023-12-31,Central South Metro,Visual Impairment,15-24,30000,12
+2023-12-31,Central South Metro,Visual Impairment,25-34,42000,15
+2023-12-31,Central South Metro,Visual Impairment,35-44,65000,14
+2023-12-31,Central South Metro,Visual Impairment,45-54,77000,21
+2023-12-31,Central South Metro,Visual Impairment,55-64,63000,35
+2023-12-31,Central South Metro,Visual Impairment,65+,61000,24
+2023-12-31,Goldfields-Esperance,Autism,0-14,29000,177
+2023-12-31,Goldfields-Esperance,Autism,0-14,36000,25
+2023-12-31,Goldfields-Esperance,Autism,15-24,35000,74
+2023-12-31,Goldfields-Esperance,Autism,15-24,78000,33
+2023-12-31,Goldfields-Esperance,Developmental delay,0-14,29000,20
+2023-12-31,Goldfields-Esperance,Developmental delay,0-14,31000,53
+2023-12-31,Goldfields-Esperance,Global developmental delay,0-14,25000,16
+2023-12-31,Goldfields-Esperance,Global developmental delay,0-14,31000,20
+2023-12-31,Goldfields-Esperance,Intellectual Disability,0-14,50000,27
+2023-12-31,Goldfields-Esperance,Intellectual Disability,15-24,63000,18
+2023-12-31,Goldfields-Esperance,Intellectual Disability,15-24,97000,27
+2023-12-31,Goldfields-Esperance,Intellectual Disability,25-34,210000,32
+2023-12-31,Goldfields-Esperance,Intellectual Disability,35-44,154000,33
+2023-12-31,Goldfields-Esperance,Psychosocial disability,35-44,82000,28
+2023-12-31,Goldfields-Esperance,Psychosocial disability,55-64,85000,13
+2023-12-31,Great Southern,ABI,55-64,286000,13
+2023-12-31,Great Southern,Autism,0-14,24000,229
+2023-12-31,Great Southern,Autism,15-24,49000,103
+2023-12-31,Great Southern,Autism,15-24,52000,75
+2023-12-31,Great Southern,Autism,25-34,85000,30
+2023-12-31,Great Southern,Autism,35-44,104000,15
+2023-12-31,Great Southern,Global developmental delay,0-14,18000,13
+2023-12-31,Great Southern,Global developmental delay,0-14,27000,11
+2023-12-31,Great Southern,Hearing Impairment,0-14,6000,14
+2023-12-31,Great Southern,Intellectual Disability,0-14,41000,26
+2023-12-31,Great Southern,Intellectual Disability,15-24,60000,18
+2023-12-31,Great Southern,Intellectual Disability,15-24,77000,33
+2023-12-31,Great Southern,Intellectual Disability,25-34,160000,57
+2023-12-31,Great Southern,Intellectual Disability,35-44,179000,29
+2023-12-31,Great Southern,Intellectual Disability,45-54,142000,29
+2023-12-31,Great Southern,Intellectual Disability,55-64,196000,21
+2023-12-31,Great Southern,Multiple Sclerosis,55-64,83000,15
+2023-12-31,Great Southern,Other Neurological,55-64,85000,20
+2023-12-31,Great Southern,Other Neurological,65+,123000,12
+2023-12-31,Great Southern,Other Physical,55-64,60000,14
+2023-12-31,Great Southern,Psychosocial disability,25-34,90000,24
+2023-12-31,Great Southern,Psychosocial disability,35-44,68000,25
+2023-12-31,Great Southern,Psychosocial disability,45-54,76000,27
+2023-12-31,Great Southern,Psychosocial disability,55-64,74000,35
+2023-12-31,Kimberley-Pilbara,ABI,45-54,283000,24
+2023-12-31,Kimberley-Pilbara,ABI,55-64,248000,22
+2023-12-31,Kimberley-Pilbara,Autism,0-14,35000,237
+2023-12-31,Kimberley-Pilbara,Autism,0-14,39000,48
+2023-12-31,Kimberley-Pilbara,Autism,15-24,46000,63
+2023-12-31,Kimberley-Pilbara,Autism,15-24,85000,44
+2023-12-31,Kimberley-Pilbara,Cerebral Palsy,0-14,69000,20
+2023-12-31,Kimberley-Pilbara,Developmental delay,0-14,30000,34
+2023-12-31,Kimberley-Pilbara,Developmental delay,0-14,33000,127
+2023-12-31,Kimberley-Pilbara,Global developmental delay,0-14,30000,38
+2023-12-31,Kimberley-Pilbara,Global developmental delay,0-14,40000,38
+2023-12-31,Kimberley-Pilbara,Hearing Impairment,0-14,33000,19
+2023-12-31,Kimberley-Pilbara,Hearing Impairment,25-34,36000,13
+2023-12-31,Kimberley-Pilbara,Intellectual Disability,0-14,35000,79
+2023-12-31,Kimberley-Pilbara,Intellectual Disability,15-24,58000,48
+2023-12-31,Kimberley-Pilbara,Intellectual Disability,15-24,90000,89
+2023-12-31,Kimberley-Pilbara,Intellectual Disability,25-34,106000,58
+2023-12-31,Kimberley-Pilbara,Intellectual Disability,35-44,147000,26
+2023-12-31,Kimberley-Pilbara,Intellectual Disability,45-54,276000,17
+2023-12-31,Kimberley-Pilbara,Other,45-54,135000,11
+2023-12-31,Kimberley-Pilbara,Other,55-64,150000,13
+2023-12-31,Kimberley-Pilbara,Other Neurological,55-64,258000,18
+2023-12-31,Kimberley-Pilbara,Other Physical,45-54,101000,14
+2023-12-31,Kimberley-Pilbara,Other Physical,55-64,91000,13
+2023-12-31,Kimberley-Pilbara,Psychosocial disability,25-34,94000,42
+2023-12-31,Kimberley-Pilbara,Psychosocial disability,35-44,83000,69
+2023-12-31,Kimberley-Pilbara,Psychosocial disability,45-54,121000,50
+2023-12-31,Kimberley-Pilbara,Psychosocial disability,55-64,101000,25
+2023-12-31,Kimberley-Pilbara,Stroke,55-64,242000,24
+2023-12-31,Kimberley-Pilbara,Visual Impairment,55-64,139000,11
+2023-12-31,Midwest-Gascoyne,Autism,0-14,29000,344
+2023-12-31,Midwest-Gascoyne,Autism,0-14,33000,30
+2023-12-31,Midwest-Gascoyne,Autism,15-24,42000,86
+2023-12-31,Midwest-Gascoyne,Autism,15-24,86000,68
+2023-12-31,Midwest-Gascoyne,Autism,25-34,68000,38
+2023-12-31,Midwest-Gascoyne,Developmental delay,0-14,26000,25
+2023-12-31,Midwest-Gascoyne,Developmental delay,0-14,27000,173
+2023-12-31,Midwest-Gascoyne,Hearing Impairment,0-14,36000,12
+2023-12-31,Midwest-Gascoyne,Intellectual Disability,0-14,33000,34
+2023-12-31,Midwest-Gascoyne,Intellectual Disability,15-24,67000,31
+2023-12-31,Midwest-Gascoyne,Intellectual Disability,15-24,98000,37
+2023-12-31,Midwest-Gascoyne,Intellectual Disability,25-34,164000,47
+2023-12-31,Midwest-Gascoyne,Intellectual Disability,55-64,262000,19
+2023-12-31,Midwest-Gascoyne,Other Neurological,55-64,183000,20
+2023-12-31,Midwest-Gascoyne,Other Neurological,65+,168000,11
+2023-12-31,Midwest-Gascoyne,Other Physical,55-64,92000,18
+2023-12-31,Midwest-Gascoyne,Psychosocial disability,35-44,112000,30
+2023-12-31,Midwest-Gascoyne,Psychosocial disability,45-54,97000,23
+2023-12-31,Midwest-Gascoyne,Psychosocial disability,55-64,67000,26
+2023-12-31,Midwest-Gascoyne,Stroke,55-64,114000,13
+2023-12-31,North East Metro,ABI,25-34,154000,19
+2023-12-31,North East Metro,ABI,35-44,220000,39
+2023-12-31,North East Metro,ABI,45-54,234000,51
+2023-12-31,North East Metro,ABI,55-64,264000,61
+2023-12-31,North East Metro,ABI,65+,227000,37
+2023-12-31,North East Metro,Autism,0-14,25000,1385
+2023-12-31,North East Metro,Autism,0-14,33000,254
+2023-12-31,North East Metro,Autism,15-24,40000,616
+2023-12-31,North East Metro,Autism,15-24,71000,480
+2023-12-31,North East Metro,Autism,25-34,109000,262
+2023-12-31,North East Metro,Autism,35-44,142000,128
+2023-12-31,North East Metro,Autism,45-54,113000,42
+2023-12-31,North East Metro,Cerebral Palsy,0-14,85000,28
+2023-12-31,North East Metro,Cerebral Palsy,0-14,110000,66
+2023-12-31,North East Metro,Cerebral Palsy,15-24,92000,37
+2023-12-31,North East Metro,Cerebral Palsy,15-24,130000,37
+2023-12-31,North East Metro,Cerebral Palsy,25-34,265000,38
+2023-12-31,North East Metro,Cerebral Palsy,45-54,294000,31
+2023-12-31,North East Metro,Cerebral Palsy,55-64,307000,26
+2023-12-31,North East Metro,Developmental delay,0-14,25000,508
+2023-12-31,North East Metro,Down Syndrome,0-14,32000,23
+2023-12-31,North East Metro,Down Syndrome,15-24,77000,13
+2023-12-31,North East Metro,Down Syndrome,15-24,178000,18
+2023-12-31,North East Metro,Down Syndrome,25-34,208000,35
+2023-12-31,North East Metro,Down Syndrome,35-44,151000,25
+2023-12-31,North East Metro,Down Syndrome,45-54,221000,18
+2023-12-31,North East Metro,Down Syndrome,55-64,299000,14
+2023-12-31,North East Metro,Global developmental delay,0-14,25000,124
+2023-12-31,North East Metro,Hearing Impairment,0-14,15000,56
+2023-12-31,North East Metro,Hearing Impairment,0-14,19000,54
+2023-12-31,North East Metro,Hearing Impairment,15-24,12000,32
+2023-12-31,North East Metro,Hearing Impairment,15-24,14000,19
+2023-12-31,North East Metro,Hearing Impairment,25-34,13000,42
+2023-12-31,North East Metro,Hearing Impairment,35-44,20000,19
+2023-12-31,North East Metro,Hearing Impairment,45-54,32000,35
+2023-12-31,North East Metro,Hearing Impairment,55-64,23000,49
+2023-12-31,North East Metro,Hearing Impairment,65+,26000,15
+2023-12-31,North East Metro,Intellectual Disability,0-14,54000,147
+2023-12-31,North East Metro,Intellectual Disability,0-14,57000,21
+2023-12-31,North East Metro,Intellectual Disability,15-24,69000,126
+2023-12-31,North East Metro,Intellectual Disability,15-24,118000,161
+2023-12-31,North East Metro,Intellectual Disability,25-34,158000,221
+2023-12-31,North East Metro,Intellectual Disability,35-44,197000,135
+2023-12-31,North East Metro,Intellectual Disability,45-54,202000,136
+2023-12-31,North East Metro,Intellectual Disability,55-64,245000,130
+2023-12-31,North East Metro,Intellectual Disability,65+,237000,73
+2023-12-31,North East Metro,Multiple Sclerosis,35-44,43000,25
+2023-12-31,North East Metro,Multiple Sclerosis,45-54,123000,39
+2023-12-31,North East Metro,Multiple Sclerosis,55-64,143000,57
+2023-12-31,North East Metro,Multiple Sclerosis,65+,89000,36
+2023-12-31,North East Metro,Other,0-14,18000,34
+2023-12-31,North East Metro,Other,35-44,176000,18
+2023-12-31,North East Metro,Other,45-54,138000,21
+2023-12-31,North East Metro,Other,55-64,196000,37
+2023-12-31,North East Metro,Other,65+,121000,11
+2023-12-31,North East Metro,Other Neurological,0-14,73000,29
+2023-12-31,North East Metro,Other Neurological,15-24,91000,16
+2023-12-31,North East Metro,Other Neurological,25-34,162000,17
+2023-12-31,North East Metro,Other Neurological,35-44,140000,22
+2023-12-31,North East Metro,Other Neurological,45-54,177000,42
+2023-12-31,North East Metro,Other Neurological,55-64,220000,93
+2023-12-31,North East Metro,Other Neurological,65+,143000,69
+2023-12-31,North East Metro,Other Physical,0-14,38000,18
+2023-12-31,North East Metro,Other Physical,15-24,65000,19
+2023-12-31,North East Metro,Other Physical,25-34,109000,13
+2023-12-31,North East Metro,Other Physical,35-44,86000,28
+2023-12-31,North East Metro,Other Physical,45-54,96000,48
+2023-12-31,North East Metro,Other Physical,55-64,91000,74
+2023-12-31,North East Metro,Other Physical,65+,99000,67
+2023-12-31,North East Metro,Other Sensory/Speech,0-14,11000,28
+2023-12-31,North East Metro,Psychosocial disability,25-34,101000,134
+2023-12-31,North East Metro,Psychosocial disability,35-44,94000,202
+2023-12-31,North East Metro,Psychosocial disability,45-54,88000,219
+2023-12-31,North East Metro,Psychosocial disability,55-64,93000,204
+2023-12-31,North East Metro,Psychosocial disability,65+,95000,84
+2023-12-31,North East Metro,Spinal Cord Injury,35-44,233000,15
+2023-12-31,North East Metro,Spinal Cord Injury,45-54,168000,20
+2023-12-31,North East Metro,Spinal Cord Injury,55-64,192000,35
+2023-12-31,North East Metro,Spinal Cord Injury,65+,251000,14
+2023-12-31,North East Metro,Stroke,45-54,98000,20
+2023-12-31,North East Metro,Stroke,55-64,165000,46
+2023-12-31,North East Metro,Stroke,65+,189000,28
+2023-12-31,North East Metro,Visual Impairment,35-44,63000,11
+2023-12-31,North East Metro,Visual Impairment,45-54,57000,31
+2023-12-31,North East Metro,Visual Impairment,55-64,84000,39
+2023-12-31,North East Metro,Visual Impairment,65+,40000,16
+2023-12-31,North Metro,ABI,15-24,107000,13
+2023-12-31,North Metro,ABI,25-34,344000,17
+2023-12-31,North Metro,ABI,35-44,153000,27
+2023-12-31,North Metro,ABI,45-54,151000,39
+2023-12-31,North Metro,ABI,55-64,218000,43
+2023-12-31,North Metro,ABI,65+,196000,15
+2023-12-31,North Metro,Autism,0-14,29000,1524
+2023-12-31,North Metro,Autism,0-14,34000,241
+2023-12-31,North Metro,Autism,15-24,37000,609
+2023-12-31,North Metro,Autism,15-24,69000,474
+2023-12-31,North Metro,Autism,25-34,115000,239
+2023-12-31,North Metro,Autism,35-44,123000,110
+2023-12-31,North Metro,Autism,45-54,120000,35
+2023-12-31,North Metro,Cerebral Palsy,0-14,101000,71
+2023-12-31,North Metro,Cerebral Palsy,0-14,116000,38
+2023-12-31,North Metro,Cerebral Palsy,15-24,107000,42
+2023-12-31,North Metro,Cerebral Palsy,15-24,183000,48
+2023-12-31,North Metro,Cerebral Palsy,25-34,208000,37
+2023-12-31,North Metro,Cerebral Palsy,35-44,290000,21
+2023-12-31,North Metro,Cerebral Palsy,45-54,177000,15
+2023-12-31,North Metro,Developmental delay,0-14,21000,75
+2023-12-31,North Metro,Developmental delay,0-14,26000,523
+2023-12-31,North Metro,Down Syndrome,0-14,46000,19
+2023-12-31,North Metro,Down Syndrome,0-14,48000,26
+2023-12-31,North Metro,Down Syndrome,15-24,90000,15
+2023-12-31,North Metro,Down Syndrome,15-24,120000,18
+2023-12-31,North Metro,Down Syndrome,25-34,144000,43
+2023-12-31,North Metro,Down Syndrome,35-44,129000,17
+2023-12-31,North Metro,Global developmental delay,0-14,21000,93
+2023-12-31,North Metro,Global developmental delay,0-14,30000,152
+2023-12-31,North Metro,Hearing Impairment,0-14,12000,80
+2023-12-31,North Metro,Hearing Impairment,0-14,16000,48
+2023-12-31,North Metro,Hearing Impairment,15-24,11000,36
+2023-12-31,North Metro,Hearing Impairment,15-24,12000,19
+2023-12-31,North Metro,Hearing Impairment,25-34,21000,34
+2023-12-31,North Metro,Hearing Impairment,35-44,21000,22
+2023-12-31,North Metro,Hearing Impairment,45-54,27000,33
+2023-12-31,North Metro,Hearing Impairment,55-64,25000,35
+2023-12-31,North Metro,Hearing Impairment,65+,15000,14
+2023-12-31,North Metro,Intellectual Disability,0-14,36000,160
+2023-12-31,North Metro,Intellectual Disability,0-14,100000,40
+2023-12-31,North Metro,Intellectual Disability,15-24,61000,106
+2023-12-31,North Metro,Intellectual Disability,15-24,115000,178
+2023-12-31,North Metro,Intellectual Disability,25-34,132000,211
+2023-12-31,North Metro,Intellectual Disability,35-44,207000,100
+2023-12-31,North Metro,Intellectual Disability,45-54,150000,72
+2023-12-31,North Metro,Intellectual Disability,55-64,175000,36
+2023-12-31,North Metro,Intellectual Disability,65+,188000,13
+2023-12-31,North Metro,Multiple Sclerosis,45-54,90000,47
+2023-12-31,North Metro,Multiple Sclerosis,55-64,108000,63
+2023-12-31,North Metro,Multiple Sclerosis,65+,179000,26
+2023-12-31,North Metro,Other,0-14,20000,21
+2023-12-31,North Metro,Other,35-44,92000,16
+2023-12-31,North Metro,Other,45-54,165000,15
+2023-12-31,North Metro,Other,55-64,128000,35
+2023-12-31,North Metro,Other,65+,154000,12
+2023-12-31,North Metro,Other Neurological,0-14,66000,34
+2023-12-31,North Metro,Other Neurological,15-24,139000,16
+2023-12-31,North Metro,Other Neurological,25-34,171000,13
+2023-12-31,North Metro,Other Neurological,35-44,184000,32
+2023-12-31,North Metro,Other Neurological,45-54,176000,39
+2023-12-31,North Metro,Other Neurological,55-64,182000,109
+2023-12-31,North Metro,Other Neurological,65+,199000,55
+2023-12-31,North Metro,Other Physical,0-14,55000,19
+2023-12-31,North Metro,Other Physical,25-34,69000,16
+2023-12-31,North Metro,Other Physical,35-44,107000,28
+2023-12-31,North Metro,Other Physical,45-54,83000,35
+2023-12-31,North Metro,Other Physical,55-64,91000,60
+2023-12-31,North Metro,Other Physical,65+,57000,41
+2023-12-31,North Metro,Psychosocial disability,15-24,192000,19
+2023-12-31,North Metro,Psychosocial disability,25-34,144000,87
+2023-12-31,North Metro,Psychosocial disability,35-44,93000,108
+2023-12-31,North Metro,Psychosocial disability,45-54,86000,137
+2023-12-31,North Metro,Psychosocial disability,55-64,81000,94
+2023-12-31,North Metro,Psychosocial disability,65+,74000,37
+2023-12-31,North Metro,Spinal Cord Injury,35-44,306000,18
+2023-12-31,North Metro,Spinal Cord Injury,45-54,239000,27
+2023-12-31,North Metro,Spinal Cord Injury,55-64,224000,17
+2023-12-31,North Metro,Spinal Cord Injury,65+,260000,13
+2023-12-31,North Metro,Stroke,45-54,248000,17
+2023-12-31,North Metro,Stroke,55-64,202000,43
+2023-12-31,North Metro,Stroke,65+,177000,22
+2023-12-31,North Metro,Visual Impairment,0-14,21000,13
+2023-12-31,North Metro,Visual Impairment,15-24,13000,12
+2023-12-31,North Metro,Visual Impairment,35-44,92000,13
+2023-12-31,North Metro,Visual Impairment,55-64,54000,20
+2023-12-31,North Metro,Visual Impairment,65+,87000,11
+2023-12-31,South East Metro,ABI,25-34,233000,24
+2023-12-31,South East Metro,ABI,35-44,173000,46
+2023-12-31,South East Metro,ABI,45-54,219000,58
+2023-12-31,South East Metro,ABI,55-64,273000,63
+2023-12-31,South East Metro,ABI,65+,274000,18
+2023-12-31,South East Metro,Autism,0-14,30000,998
+2023-12-31,South East Metro,Autism,0-14,33000,160
+2023-12-31,South East Metro,Autism,15-24,47000,377
+2023-12-31,South East Metro,Autism,15-24,88000,290
+2023-12-31,South East Metro,Autism,25-34,107000,194
+2023-12-31,South East Metro,Autism,35-44,128000,64
+2023-12-31,South East Metro,Autism,45-54,149000,32
+2023-12-31,South East Metro,Cerebral Palsy,0-14,83000,49
+2023-12-31,South East Metro,Cerebral Palsy,15-24,68000,25
+2023-12-31,South East Metro,Cerebral Palsy,15-24,167000,23
+2023-12-31,South East Metro,Cerebral Palsy,25-34,245000,30
+2023-12-31,South East Metro,Cerebral Palsy,35-44,238000,28
+2023-12-31,South East Metro,Cerebral Palsy,45-54,301000,29
+2023-12-31,South East Metro,Cerebral Palsy,55-64,333000,20
+2023-12-31,South East Metro,Developmental delay,0-14,22000,61
+2023-12-31,South East Metro,Developmental delay,0-14,25000,519
+2023-12-31,South East Metro,Down Syndrome,0-14,37000,14
+2023-12-31,South East Metro,Down Syndrome,0-14,45000,25
+2023-12-31,South East Metro,Down Syndrome,15-24,65000,11
+2023-12-31,South East Metro,Down Syndrome,25-34,168000,31
+2023-12-31,South East Metro,Down Syndrome,35-44,128000,20
+2023-12-31,South East Metro,Global developmental delay,0-14,24000,65
+2023-12-31,South East Metro,Global developmental delay,0-14,33000,75
+2023-12-31,South East Metro,Hearing Impairment,0-14,12000,66
+2023-12-31,South East Metro,Hearing Impairment,0-14,20000,34
+2023-12-31,South East Metro,Hearing Impairment,15-24,13000,32
+2023-12-31,South East Metro,Hearing Impairment,25-34,22000,29
+2023-12-31,South East Metro,Hearing Impairment,35-44,18000,28
+2023-12-31,South East Metro,Hearing Impairment,45-54,24000,41
+2023-12-31,South East Metro,Hearing Impairment,55-64,24000,35
+2023-12-31,South East Metro,Intellectual Disability,0-14,52000,90
+2023-12-31,South East Metro,Intellectual Disability,0-14,106000,18
+2023-12-31,South East Metro,Intellectual Disability,15-24,87000,112
+2023-12-31,South East Metro,Intellectual Disability,15-24,150000,132
+2023-12-31,South East Metro,Intellectual Disability,25-34,128000,173
+2023-12-31,South East Metro,Intellectual Disability,35-44,189000,139
+2023-12-31,South East Metro,Intellectual Disability,45-54,170000,98
+2023-12-31,South East Metro,Intellectual Disability,55-64,204000,101
+2023-12-31,South East Metro,Intellectual Disability,65+,250000,36
+2023-12-31,South East Metro,Multiple Sclerosis,35-44,73000,20
+2023-12-31,South East Metro,Multiple Sclerosis,45-54,91000,18
+2023-12-31,South East Metro,Multiple Sclerosis,55-64,127000,30
+2023-12-31,South East Metro,Other,0-14,15000,11
+2023-12-31,South East Metro,Other,45-54,156000,17
+2023-12-31,South East Metro,Other,55-64,142000,41
+2023-12-31,South East Metro,Other,65+,185000,17
+2023-12-31,South East Metro,Other Neurological,0-14,146000,13
+2023-12-31,South East Metro,Other Neurological,25-34,153000,20
+2023-12-31,South East Metro,Other Neurological,35-44,300000,22
+2023-12-31,South East Metro,Other Neurological,45-54,267000,39
+2023-12-31,South East Metro,Other Neurological,55-64,242000,97
+2023-12-31,South East Metro,Other Neurological,65+,196000,58
+2023-12-31,South East Metro,Other Physical,0-14,66000,11
+2023-12-31,South East Metro,Other Physical,35-44,78000,17
+2023-12-31,South East Metro,Other Physical,45-54,130000,36
+2023-12-31,South East Metro,Other Physical,55-64,101000,56
+2023-12-31,South East Metro,Other Physical,65+,138000,34
+2023-12-31,South East Metro,Psychosocial disability,25-34,118000,115
+2023-12-31,South East Metro,Psychosocial disability,35-44,104000,176
+2023-12-31,South East Metro,Psychosocial disability,45-54,97000,189
+2023-12-31,South East Metro,Psychosocial disability,55-64,96000,178
+2023-12-31,South East Metro,Psychosocial disability,65+,108000,32
+2023-12-31,South East Metro,Spinal Cord Injury,35-44,205000,11
+2023-12-31,South East Metro,Spinal Cord Injury,45-54,215000,19
+2023-12-31,South East Metro,Spinal Cord Injury,55-64,236000,18
+2023-12-31,South East Metro,Spinal Cord Injury,65+,223000,16
+2023-12-31,South East Metro,Stroke,45-54,165000,21
+2023-12-31,South East Metro,Stroke,55-64,176000,47
+2023-12-31,South East Metro,Stroke,65+,306000,18
+2023-12-31,South East Metro,Visual Impairment,25-34,36000,12
+2023-12-31,South East Metro,Visual Impairment,35-44,67000,22
+2023-12-31,South East Metro,Visual Impairment,45-54,49000,23
+2023-12-31,South East Metro,Visual Impairment,55-64,66000,31
+2023-12-31,South East Metro,Visual Impairment,65+,58000,12
+2023-12-31,South Metro,ABI,0-14,87000,22
+2023-12-31,South Metro,ABI,25-34,183000,30
+2023-12-31,South Metro,ABI,35-44,236000,40
+2023-12-31,South Metro,ABI,45-54,271000,62
+2023-12-31,South Metro,ABI,55-64,229000,71
+2023-12-31,South Metro,ABI,65+,174000,18
+2023-12-31,South Metro,Autism,0-14,24000,1825
+2023-12-31,South Metro,Autism,0-14,28000,257
+2023-12-31,South Metro,Autism,15-24,38000,661
+2023-12-31,South Metro,Autism,15-24,57000,480
+2023-12-31,South Metro,Autism,25-34,83000,238
+2023-12-31,South Metro,Autism,35-44,86000,105
+2023-12-31,South Metro,Autism,45-54,89000,38
+2023-12-31,South Metro,Cerebral Palsy,0-14,71000,75
+2023-12-31,South Metro,Cerebral Palsy,0-14,110000,27
+2023-12-31,South Metro,Cerebral Palsy,15-24,126000,36
+2023-12-31,South Metro,Cerebral Palsy,15-24,135000,29
+2023-12-31,South Metro,Cerebral Palsy,25-34,273000,28
+2023-12-31,South Metro,Cerebral Palsy,35-44,272000,26
+2023-12-31,South Metro,Cerebral Palsy,45-54,167000,17
+2023-12-31,South Metro,Developmental delay,0-14,20000,105
+2023-12-31,South Metro,Developmental delay,0-14,25000,733
+2023-12-31,South Metro,Down Syndrome,0-14,33000,27
+2023-12-31,South Metro,Down Syndrome,0-14,39000,29
+2023-12-31,South Metro,Down Syndrome,15-24,72000,17
+2023-12-31,South Metro,Down Syndrome,15-24,135000,18
+2023-12-31,South Metro,Down Syndrome,25-34,129000,27
+2023-12-31,South Metro,Down Syndrome,35-44,221000,20
+2023-12-31,South Metro,Down Syndrome,45-54,243000,14
+2023-12-31,South Metro,Global developmental delay,0-14,19000,104
+2023-12-31,South Metro,Global developmental delay,0-14,30000,125
+2023-12-31,South Metro,Hearing Impairment,0-14,12000,62
+2023-12-31,South Metro,Hearing Impairment,0-14,19000,50
+2023-12-31,South Metro,Hearing Impairment,15-24,9000,25
+2023-12-31,South Metro,Hearing Impairment,15-24,11000,28
+2023-12-31,South Metro,Hearing Impairment,25-34,10000,33
+2023-12-31,South Metro,Hearing Impairment,35-44,18000,31
+2023-12-31,South Metro,Hearing Impairment,45-54,23000,40
+2023-12-31,South Metro,Hearing Impairment,55-64,20000,56
+2023-12-31,South Metro,Hearing Impairment,65+,20000,22
+2023-12-31,South Metro,Intellectual Disability,0-14,38000,207
+2023-12-31,South Metro,Intellectual Disability,0-14,75000,40
+2023-12-31,South Metro,Intellectual Disability,15-24,60000,175
+2023-12-31,South Metro,Intellectual Disability,15-24,93000,216
+2023-12-31,South Metro,Intellectual Disability,25-34,144000,267
+2023-12-31,South Metro,Intellectual Disability,35-44,161000,158
+2023-12-31,South Metro,Intellectual Disability,45-54,169000,111
+2023-12-31,South Metro,Intellectual Disability,55-64,191000,87
+2023-12-31,South Metro,Intellectual Disability,65+,190000,27
+2023-12-31,South Metro,Multiple Sclerosis,25-34,131000,11
+2023-12-31,South Metro,Multiple Sclerosis,35-44,56000,25
+2023-12-31,South Metro,Multiple Sclerosis,45-54,67000,46
+2023-12-31,South Metro,Multiple Sclerosis,55-64,87000,64
+2023-12-31,South Metro,Multiple Sclerosis,65+,77000,32
+2023-12-31,South Metro,Other,0-14,16000,25
+2023-12-31,South Metro,Other,45-54,145000,19
+2023-12-31,South Metro,Other,55-64,152000,34
+2023-12-31,South Metro,Other,65+,127000,19
+2023-12-31,South Metro,Other Neurological,0-14,92000,30
+2023-12-31,South Metro,Other Neurological,15-24,76000,18
+2023-12-31,South Metro,Other Neurological,25-34,229000,20
+2023-12-31,South Metro,Other Neurological,35-44,134000,28
+2023-12-31,South Metro,Other Neurological,45-54,186000,45
+2023-12-31,South Metro,Other Neurological,55-64,184000,115
+2023-12-31,South Metro,Other Neurological,65+,162000,69
+2023-12-31,South Metro,Other Physical,0-14,33000,21
+2023-12-31,South Metro,Other Physical,15-24,87000,14
+2023-12-31,South Metro,Other Physical,25-34,105000,18
+2023-12-31,South Metro,Other Physical,35-44,112000,32
+2023-12-31,South Metro,Other Physical,45-54,75000,51
+2023-12-31,South Metro,Other Physical,55-64,100000,108
+2023-12-31,South Metro,Other Physical,65+,117000,62
+2023-12-31,South Metro,Psychosocial disability,15-24,123000,18
+2023-12-31,South Metro,Psychosocial disability,25-34,136000,83
+2023-12-31,South Metro,Psychosocial disability,35-44,100000,137
+2023-12-31,South Metro,Psychosocial disability,45-54,98000,169
+2023-12-31,South Metro,Psychosocial disability,55-64,84000,157
+2023-12-31,South Metro,Psychosocial disability,65+,78000,44
+2023-12-31,South Metro,Spinal Cord Injury,35-44,241000,26
+2023-12-31,South Metro,Spinal Cord Injury,45-54,131000,18
+2023-12-31,South Metro,Spinal Cord Injury,55-64,151000,23
+2023-12-31,South Metro,Spinal Cord Injury,65+,272000,14
+2023-12-31,South Metro,Stroke,45-54,94000,16
+2023-12-31,South Metro,Stroke,55-64,166000,43
+2023-12-31,South Metro,Stroke,65+,144000,39
+2023-12-31,South Metro,Visual Impairment,0-14,29000,19
+2023-12-31,South Metro,Visual Impairment,35-44,75000,11
+2023-12-31,South Metro,Visual Impairment,45-54,83000,20
+2023-12-31,South Metro,Visual Impairment,55-64,56000,47
+2023-12-31,South Metro,Visual Impairment,65+,53000,19
+2023-12-31,South West,ABI,35-44,208000,15
+2023-12-31,South West,ABI,45-54,90000,21
+2023-12-31,South West,ABI,55-64,174000,31
+2023-12-31,South West,ABI,65+,90000,14
+2023-12-31,South West,Autism,0-14,27000,875
+2023-12-31,South West,Autism,0-14,31000,74
+2023-12-31,South West,Autism,15-24,39000,323
+2023-12-31,South West,Autism,15-24,71000,234
+2023-12-31,South West,Autism,25-34,77000,127
+2023-12-31,South West,Autism,35-44,82000,47
+2023-12-31,South West,Autism,45-54,81000,18
+2023-12-31,South West,Cerebral Palsy,0-14,75000,34
+2023-12-31,South West,Cerebral Palsy,0-14,190000,13
+2023-12-31,South West,Cerebral Palsy,15-24,45000,15
+2023-12-31,South West,Cerebral Palsy,15-24,268000,11
+2023-12-31,South West,Cerebral Palsy,25-34,169000,15
+2023-12-31,South West,Cerebral Palsy,35-44,278000,16
+2023-12-31,South West,Developmental delay,0-14,21000,44
+2023-12-31,South West,Developmental delay,0-14,23000,228
+2023-12-31,South West,Down Syndrome,0-14,39000,13
+2023-12-31,South West,Down Syndrome,15-24,159000,11
+2023-12-31,South West,Down Syndrome,25-34,180000,17
+2023-12-31,South West,Down Syndrome,35-44,126000,11
+2023-12-31,South West,Down Syndrome,45-54,201000,14
+2023-12-31,South West,Global developmental delay,0-14,24000,47
+2023-12-31,South West,Global developmental delay,0-14,39000,58
+2023-12-31,South West,Hearing Impairment,0-14,14000,31
+2023-12-31,South West,Hearing Impairment,0-14,19000,30
+2023-12-31,South West,Hearing Impairment,15-24,15000,18
+2023-12-31,South West,Hearing Impairment,15-24,16000,18
+2023-12-31,South West,Hearing Impairment,35-44,12000,15
+2023-12-31,South West,Hearing Impairment,45-54,19000,12
+2023-12-31,South West,Hearing Impairment,55-64,15000,24
+2023-12-31,South West,Intellectual Disability,0-14,40000,79
+2023-12-31,South West,Intellectual Disability,0-14,55000,11
+2023-12-31,South West,Intellectual Disability,15-24,55000,72
+2023-12-31,South West,Intellectual Disability,15-24,102000,128
+2023-12-31,South West,Intellectual Disability,25-34,119000,154
+2023-12-31,South West,Intellectual Disability,35-44,136000,92
+2023-12-31,South West,Intellectual Disability,45-54,150000,77
+2023-12-31,South West,Intellectual Disability,55-64,164000,57
+2023-12-31,South West,Intellectual Disability,65+,179000,33
+2023-12-31,South West,Multiple Sclerosis,35-44,58000,12
+2023-12-31,South West,Multiple Sclerosis,45-54,58000,28
+2023-12-31,South West,Multiple Sclerosis,55-64,161000,37
+2023-12-31,South West,Multiple Sclerosis,65+,86000,25
+2023-12-31,South West,Other,45-54,97000,21
+2023-12-31,South West,Other,55-64,186000,28
+2023-12-31,South West,Other,65+,94000,14
+2023-12-31,South West,Other Neurological,25-34,172000,16
+2023-12-31,South West,Other Neurological,35-44,115000,19
+2023-12-31,South West,Other Neurological,45-54,171000,38
+2023-12-31,South West,Other Neurological,55-64,141000,68
+2023-12-31,South West,Other Neurological,65+,144000,45
+2023-12-31,South West,Other Physical,25-34,82000,12
+2023-12-31,South West,Other Physical,35-44,153000,12
+2023-12-31,South West,Other Physical,45-54,76000,26
+2023-12-31,South West,Other Physical,55-64,91000,65
+2023-12-31,South West,Other Physical,65+,107000,52
+2023-12-31,South West,Psychosocial disability,25-34,75000,77
+2023-12-31,South West,Psychosocial disability,35-44,61000,99
+2023-12-31,South West,Psychosocial disability,45-54,72000,118
+2023-12-31,South West,Psychosocial disability,55-64,70000,126
+2023-12-31,South West,Psychosocial disability,65+,59000,45
+2023-12-31,South West,Spinal Cord Injury,45-54,178000,14
+2023-12-31,South West,Spinal Cord Injury,55-64,262000,14
+2023-12-31,South West,Stroke,45-54,110000,12
+2023-12-31,South West,Stroke,55-64,190000,26
+2023-12-31,South West,Stroke,65+,90000,19
+2023-12-31,South West,Visual Impairment,35-44,54000,13
+2023-12-31,South West,Visual Impairment,55-64,84000,14
+2023-12-31,Wheat Belt,Autism,0-14,24000,226
+2023-12-31,Wheat Belt,Autism,15-24,30000,95
+2023-12-31,Wheat Belt,Autism,15-24,57000,63
+2023-12-31,Wheat Belt,Autism,25-34,45000,33
+2023-12-31,Wheat Belt,Cerebral Palsy,0-14,65000,15
+2023-12-31,Wheat Belt,Global developmental delay,0-14,34000,11
+2023-12-31,Wheat Belt,Global developmental delay,0-14,37000,15
+2023-12-31,Wheat Belt,Hearing Impairment,0-14,14000,11
+2023-12-31,Wheat Belt,Intellectual Disability,0-14,37000,42
+2023-12-31,Wheat Belt,Intellectual Disability,15-24,68000,30
+2023-12-31,Wheat Belt,Intellectual Disability,15-24,82000,41
+2023-12-31,Wheat Belt,Intellectual Disability,25-34,64000,47
+2023-12-31,Wheat Belt,Intellectual Disability,35-44,132000,29
+2023-12-31,Wheat Belt,Intellectual Disability,45-54,162000,19
+2023-12-31,Wheat Belt,Intellectual Disability,55-64,131000,16
+2023-12-31,Wheat Belt,Multiple Sclerosis,55-64,58000,14
+2023-12-31,Wheat Belt,Other,55-64,113000,18
+2023-12-31,Wheat Belt,Other Neurological,45-54,181000,13
+2023-12-31,Wheat Belt,Other Neurological,55-64,191000,17
+2023-12-31,Wheat Belt,Other Physical,55-64,82000,29
+2023-12-31,Wheat Belt,Psychosocial disability,25-34,79000,18
+2023-12-31,Wheat Belt,Psychosocial disability,45-54,63000,35
+2023-12-31,Wheat Belt,Psychosocial disability,55-64,85000,41
+2023-12-31,Wheat Belt,Stroke,55-64,95000,12
+2024-12-31,Central North Metro,ABI,15-24,237000,11
+2024-12-31,Central North Metro,ABI,25-34,202000,16
+2024-12-31,Central North Metro,ABI,35-44,195000,28
+2024-12-31,Central North Metro,ABI,45-54,260000,54
+2024-12-31,Central North Metro,ABI,55-64,211000,62
+2024-12-31,Central North Metro,ABI,65+,218000,32
+2024-12-31,Central North Metro,Autism,0-14,30000,786
+2024-12-31,Central North Metro,Autism,0-14,31000,338
+2024-12-31,Central North Metro,Autism,15-24,44000,381
+2024-12-31,Central North Metro,Autism,15-24,79000,342
+2024-12-31,Central North Metro,Autism,25-34,97000,274
+2024-12-31,Central North Metro,Autism,35-44,90000,115
+2024-12-31,Central North Metro,Autism,45-54,108000,54
+2024-12-31,Central North Metro,Autism,55-64,128000,26
+2024-12-31,Central North Metro,Autism,65+,135000,11
+2024-12-31,Central North Metro,Cerebral Palsy,0-14,81000,28
+2024-12-31,Central North Metro,Cerebral Palsy,0-14,90000,31
+2024-12-31,Central North Metro,Cerebral Palsy,15-24,110000,27
+2024-12-31,Central North Metro,Cerebral Palsy,15-24,229000,29
+2024-12-31,Central North Metro,Cerebral Palsy,25-34,211000,34
+2024-12-31,Central North Metro,Cerebral Palsy,35-44,360000,32
+2024-12-31,Central North Metro,Cerebral Palsy,45-54,346000,39
+2024-12-31,Central North Metro,Cerebral Palsy,55-64,342000,37
+2024-12-31,Central North Metro,Developmental delay,0-14,24000,484
+2024-12-31,Central North Metro,Down Syndrome,0-14,49000,18
+2024-12-31,Central North Metro,Down Syndrome,0-14,51000,12
+2024-12-31,Central North Metro,Down Syndrome,15-24,65000,13
+2024-12-31,Central North Metro,Down Syndrome,15-24,154000,16
+2024-12-31,Central North Metro,Down Syndrome,25-34,169000,33
+2024-12-31,Central North Metro,Down Syndrome,35-44,151000,32
+2024-12-31,Central North Metro,Down Syndrome,45-54,266000,12
+2024-12-31,Central North Metro,Down Syndrome,55-64,311000,13
+2024-12-31,Central North Metro,Global developmental delay,0-14,28000,110
+2024-12-31,Central North Metro,Hearing Impairment,0-14,12000,45
+2024-12-31,Central North Metro,Hearing Impairment,0-14,18000,66
+2024-12-31,Central North Metro,Hearing Impairment,15-24,9000,19
+2024-12-31,Central North Metro,Hearing Impairment,15-24,11000,20
+2024-12-31,Central North Metro,Hearing Impairment,25-34,12000,28
+2024-12-31,Central North Metro,Hearing Impairment,35-44,24000,24
+2024-12-31,Central North Metro,Hearing Impairment,45-54,29000,21
+2024-12-31,Central North Metro,Hearing Impairment,55-64,26000,37
+2024-12-31,Central North Metro,Hearing Impairment,65+,28000,20
+2024-12-31,Central North Metro,Intellectual Disability,0-14,47000,29
+2024-12-31,Central North Metro,Intellectual Disability,0-14,55000,67
+2024-12-31,Central North Metro,Intellectual Disability,15-24,80000,57
+2024-12-31,Central North Metro,Intellectual Disability,15-24,151000,101
+2024-12-31,Central North Metro,Intellectual Disability,25-34,158000,154
+2024-12-31,Central North Metro,Intellectual Disability,35-44,146000,129
+2024-12-31,Central North Metro,Intellectual Disability,45-54,183000,106
+2024-12-31,Central North Metro,Intellectual Disability,55-64,168000,118
+2024-12-31,Central North Metro,Intellectual Disability,65+,220000,67
+2024-12-31,Central North Metro,Multiple Sclerosis,35-44,45000,12
+2024-12-31,Central North Metro,Multiple Sclerosis,45-54,73000,32
+2024-12-31,Central North Metro,Multiple Sclerosis,55-64,116000,52
+2024-12-31,Central North Metro,Multiple Sclerosis,65+,172000,21
+2024-12-31,Central North Metro,Other,0-14,13000,15
+2024-12-31,Central North Metro,Other,0-14,76000,12
+2024-12-31,Central North Metro,Other,35-44,102000,23
+2024-12-31,Central North Metro,Other,45-54,176000,17
+2024-12-31,Central North Metro,Other,55-64,188000,36
+2024-12-31,Central North Metro,Other,65+,197000,18
+2024-12-31,Central North Metro,Other Neurological,0-14,127000,15
+2024-12-31,Central North Metro,Other Neurological,25-34,333000,22
+2024-12-31,Central North Metro,Other Neurological,35-44,270000,16
+2024-12-31,Central North Metro,Other Neurological,45-54,183000,26
+2024-12-31,Central North Metro,Other Neurological,55-64,226000,109
+2024-12-31,Central North Metro,Other Neurological,65+,185000,84
+2024-12-31,Central North Metro,Other Physical,15-24,116000,12
+2024-12-31,Central North Metro,Other Physical,25-34,130000,14
+2024-12-31,Central North Metro,Other Physical,35-44,162000,24
+2024-12-31,Central North Metro,Other Physical,45-54,108000,44
+2024-12-31,Central North Metro,Other Physical,55-64,116000,54
+2024-12-31,Central North Metro,Other Physical,65+,102000,41
+2024-12-31,Central North Metro,Psychosocial disability,15-24,204000,16
+2024-12-31,Central North Metro,Psychosocial disability,25-34,112000,119
+2024-12-31,Central North Metro,Psychosocial disability,35-44,131000,197
+2024-12-31,Central North Metro,Psychosocial disability,45-54,113000,290
+2024-12-31,Central North Metro,Psychosocial disability,55-64,109000,273
+2024-12-31,Central North Metro,Psychosocial disability,65+,121000,110
+2024-12-31,Central North Metro,Spinal Cord Injury,35-44,266000,15
+2024-12-31,Central North Metro,Spinal Cord Injury,45-54,280000,23
+2024-12-31,Central North Metro,Spinal Cord Injury,55-64,304000,30
+2024-12-31,Central North Metro,Spinal Cord Injury,65+,251000,20
+2024-12-31,Central North Metro,Stroke,45-54,142000,20
+2024-12-31,Central North Metro,Stroke,55-64,199000,33
+2024-12-31,Central North Metro,Stroke,65+,144000,22
+2024-12-31,Central North Metro,Visual Impairment,25-34,86000,15
+2024-12-31,Central North Metro,Visual Impairment,35-44,61000,14
+2024-12-31,Central North Metro,Visual Impairment,45-54,62000,16
+2024-12-31,Central North Metro,Visual Impairment,55-64,58000,30
+2024-12-31,Central North Metro,Visual Impairment,65+,74000,21
+2024-12-31,Central South Metro,ABI,25-34,175000,18
+2024-12-31,Central South Metro,ABI,35-44,136000,29
+2024-12-31,Central South Metro,ABI,45-54,235000,57
+2024-12-31,Central South Metro,ABI,55-64,284000,55
+2024-12-31,Central South Metro,ABI,65+,212000,31
+2024-12-31,Central South Metro,Autism,0-14,29000,1108
+2024-12-31,Central South Metro,Autism,0-14,33000,459
+2024-12-31,Central South Metro,Autism,15-24,38000,570
+2024-12-31,Central South Metro,Autism,15-24,75000,464
+2024-12-31,Central South Metro,Autism,25-34,85000,273
+2024-12-31,Central South Metro,Autism,35-44,113000,106
+2024-12-31,Central South Metro,Autism,45-54,102000,56
+2024-12-31,Central South Metro,Autism,55-64,105000,14
+2024-12-31,Central South Metro,Cerebral Palsy,0-14,82000,36
+2024-12-31,Central South Metro,Cerebral Palsy,0-14,94000,26
+2024-12-31,Central South Metro,Cerebral Palsy,15-24,81000,26
+2024-12-31,Central South Metro,Cerebral Palsy,15-24,155000,24
+2024-12-31,Central South Metro,Cerebral Palsy,25-34,252000,37
+2024-12-31,Central South Metro,Cerebral Palsy,35-44,280000,30
+2024-12-31,Central South Metro,Cerebral Palsy,45-54,313000,14
+2024-12-31,Central South Metro,Developmental delay,0-14,24000,637
+2024-12-31,Central South Metro,Down Syndrome,0-14,46000,17
+2024-12-31,Central South Metro,Down Syndrome,15-24,92000,14
+2024-12-31,Central South Metro,Down Syndrome,15-24,119000,14
+2024-12-31,Central South Metro,Down Syndrome,25-34,150000,26
+2024-12-31,Central South Metro,Down Syndrome,35-44,140000,24
+2024-12-31,Central South Metro,Down Syndrome,45-54,275000,18
+2024-12-31,Central South Metro,Global developmental delay,0-14,27000,14
+2024-12-31,Central South Metro,Global developmental delay,0-14,43000,113
+2024-12-31,Central South Metro,Hearing Impairment,0-14,13000,68
+2024-12-31,Central South Metro,Hearing Impairment,0-14,21000,55
+2024-12-31,Central South Metro,Hearing Impairment,15-24,9000,32
+2024-12-31,Central South Metro,Hearing Impairment,15-24,9000,35
+2024-12-31,Central South Metro,Hearing Impairment,25-34,12000,43
+2024-12-31,Central South Metro,Hearing Impairment,35-44,23000,34
+2024-12-31,Central South Metro,Hearing Impairment,45-54,18000,29
+2024-12-31,Central South Metro,Hearing Impairment,55-64,21000,38
+2024-12-31,Central South Metro,Hearing Impairment,65+,27000,25
+2024-12-31,Central South Metro,Intellectual Disability,0-14,45000,109
+2024-12-31,Central South Metro,Intellectual Disability,0-14,124000,38
+2024-12-31,Central South Metro,Intellectual Disability,15-24,102000,86
+2024-12-31,Central South Metro,Intellectual Disability,15-24,114000,195
+2024-12-31,Central South Metro,Intellectual Disability,25-34,131000,223
+2024-12-31,Central South Metro,Intellectual Disability,35-44,160000,129
+2024-12-31,Central South Metro,Intellectual Disability,45-54,188000,91
+2024-12-31,Central South Metro,Intellectual Disability,55-64,174000,98
+2024-12-31,Central South Metro,Intellectual Disability,65+,206000,39
+2024-12-31,Central South Metro,Multiple Sclerosis,25-34,82000,12
+2024-12-31,Central South Metro,Multiple Sclerosis,35-44,43000,14
+2024-12-31,Central South Metro,Multiple Sclerosis,45-54,91000,28
+2024-12-31,Central South Metro,Multiple Sclerosis,55-64,137000,46
+2024-12-31,Central South Metro,Multiple Sclerosis,65+,198000,29
+2024-12-31,Central South Metro,Other,0-14,30000,21
+2024-12-31,Central South Metro,Other,45-54,153000,20
+2024-12-31,Central South Metro,Other,55-64,155000,35
+2024-12-31,Central South Metro,Other,65+,140000,25
+2024-12-31,Central South Metro,Other Neurological,0-14,123000,14
+2024-12-31,Central South Metro,Other Neurological,0-14,136000,15
+2024-12-31,Central South Metro,Other Neurological,15-24,106000,15
+2024-12-31,Central South Metro,Other Neurological,15-24,248000,15
+2024-12-31,Central South Metro,Other Neurological,25-34,222000,25
+2024-12-31,Central South Metro,Other Neurological,35-44,163000,25
+2024-12-31,Central South Metro,Other Neurological,45-54,234000,49
+2024-12-31,Central South Metro,Other Neurological,55-64,249000,107
+2024-12-31,Central South Metro,Other Neurological,65+,213000,69
+2024-12-31,Central South Metro,Other Physical,0-14,36000,14
+2024-12-31,Central South Metro,Other Physical,15-24,48000,12
+2024-12-31,Central South Metro,Other Physical,25-34,154000,15
+2024-12-31,Central South Metro,Other Physical,35-44,106000,17
+2024-12-31,Central South Metro,Other Physical,45-54,91000,45
+2024-12-31,Central South Metro,Other Physical,55-64,83000,58
+2024-12-31,Central South Metro,Other Physical,65+,90000,51
+2024-12-31,Central South Metro,Psychosocial disability,15-24,178000,12
+2024-12-31,Central South Metro,Psychosocial disability,25-34,117000,92
+2024-12-31,Central South Metro,Psychosocial disability,35-44,104000,151
+2024-12-31,Central South Metro,Psychosocial disability,45-54,92000,156
+2024-12-31,Central South Metro,Psychosocial disability,55-64,91000,174
+2024-12-31,Central South Metro,Psychosocial disability,65+,95000,62
+2024-12-31,Central South Metro,Spinal Cord Injury,35-44,243000,20
+2024-12-31,Central South Metro,Spinal Cord Injury,45-54,279000,19
+2024-12-31,Central South Metro,Spinal Cord Injury,55-64,229000,29
+2024-12-31,Central South Metro,Spinal Cord Injury,65+,230000,18
+2024-12-31,Central South Metro,Stroke,45-54,168000,20
+2024-12-31,Central South Metro,Stroke,55-64,221000,36
+2024-12-31,Central South Metro,Stroke,65+,171000,26
+2024-12-31,Central South Metro,Visual Impairment,15-24,30000,11
+2024-12-31,Central South Metro,Visual Impairment,25-34,59000,17
+2024-12-31,Central South Metro,Visual Impairment,35-44,70000,11
+2024-12-31,Central South Metro,Visual Impairment,45-54,80000,22
+2024-12-31,Central South Metro,Visual Impairment,55-64,62000,32
+2024-12-31,Central South Metro,Visual Impairment,65+,64000,26
+2024-12-31,Goldfields-Esperance,Autism,0-14,30000,165
+2024-12-31,Goldfields-Esperance,Autism,0-14,37000,73
+2024-12-31,Goldfields-Esperance,Autism,15-24,42000,85
+2024-12-31,Goldfields-Esperance,Autism,15-24,80000,45
+2024-12-31,Goldfields-Esperance,Autism,25-34,97000,24
+2024-12-31,Goldfields-Esperance,Developmental delay,0-14,31000,66
+2024-12-31,Goldfields-Esperance,Global developmental delay,0-14,32000,31
+2024-12-31,Goldfields-Esperance,Intellectual Disability,0-14,65000,21
+2024-12-31,Goldfields-Esperance,Intellectual Disability,15-24,66000,20
+2024-12-31,Goldfields-Esperance,Intellectual Disability,15-24,114000,35
+2024-12-31,Goldfields-Esperance,Intellectual Disability,25-34,234000,31
+2024-12-31,Goldfields-Esperance,Intellectual Disability,35-44,172000,33
+2024-12-31,Goldfields-Esperance,Intellectual Disability,45-54,238000,13
+2024-12-31,Goldfields-Esperance,Intellectual Disability,55-64,301000,16
+2024-12-31,Goldfields-Esperance,Psychosocial disability,25-34,126000,12
+2024-12-31,Goldfields-Esperance,Psychosocial disability,35-44,95000,21
+2024-12-31,Goldfields-Esperance,Psychosocial disability,45-54,160000,21
+2024-12-31,Goldfields-Esperance,Psychosocial disability,55-64,88000,14
+2024-12-31,Great Southern,ABI,55-64,303000,12
+2024-12-31,Great Southern,Autism,0-14,26000,191
+2024-12-31,Great Southern,Autism,0-14,26000,57
+2024-12-31,Great Southern,Autism,15-24,49000,122
+2024-12-31,Great Southern,Autism,15-24,57000,81
+2024-12-31,Great Southern,Autism,25-34,66000,39
+2024-12-31,Great Southern,Autism,35-44,112000,23
+2024-12-31,Great Southern,Cerebral Palsy,25-34,166000,12
+2024-12-31,Great Southern,Developmental delay,0-14,25000,117
+2024-12-31,Great Southern,Global developmental delay,0-14,33000,23
+2024-12-31,Great Southern,Hearing Impairment,0-14,19000,11
+2024-12-31,Great Southern,Intellectual Disability,0-14,46000,24
+2024-12-31,Great Southern,Intellectual Disability,15-24,53000,15
+2024-12-31,Great Southern,Intellectual Disability,15-24,70000,34
+2024-12-31,Great Southern,Intellectual Disability,25-34,140000,62
+2024-12-31,Great Southern,Intellectual Disability,35-44,191000,32
+2024-12-31,Great Southern,Intellectual Disability,45-54,169000,26
+2024-12-31,Great Southern,Intellectual Disability,55-64,180000,18
+2024-12-31,Great Southern,Intellectual Disability,65+,223000,15
+2024-12-31,Great Southern,Multiple Sclerosis,55-64,82000,14
+2024-12-31,Great Southern,Other,55-64,205000,11
+2024-12-31,Great Southern,Other Neurological,55-64,54000,15
+2024-12-31,Great Southern,Other Neurological,65+,134000,14
+2024-12-31,Great Southern,Other Physical,55-64,66000,12
+2024-12-31,Great Southern,Psychosocial disability,25-34,143000,22
+2024-12-31,Great Southern,Psychosocial disability,35-44,79000,25
+2024-12-31,Great Southern,Psychosocial disability,45-54,90000,32
+2024-12-31,Great Southern,Psychosocial disability,55-64,88000,36
+2024-12-31,Great Southern,Psychosocial disability,65+,93000,18
+2024-12-31,Kimberley-Pilbara,ABI,35-44,403000,11
+2024-12-31,Kimberley-Pilbara,ABI,45-54,333000,25
+2024-12-31,Kimberley-Pilbara,ABI,55-64,273000,21
+2024-12-31,Kimberley-Pilbara,Autism,0-14,42000,101
+2024-12-31,Kimberley-Pilbara,Autism,0-14,42000,216
+2024-12-31,Kimberley-Pilbara,Autism,15-24,45000,79
+2024-12-31,Kimberley-Pilbara,Autism,15-24,91000,53
+2024-12-31,Kimberley-Pilbara,Autism,25-34,87000,22
+2024-12-31,Kimberley-Pilbara,Autism,35-44,136000,11
+2024-12-31,Kimberley-Pilbara,Cerebral Palsy,0-14,70000,13
+2024-12-31,Kimberley-Pilbara,Cerebral Palsy,0-14,99000,14
+2024-12-31,Kimberley-Pilbara,Developmental delay,0-14,34000,201
+2024-12-31,Kimberley-Pilbara,Global developmental delay,0-14,36000,69
+2024-12-31,Kimberley-Pilbara,Hearing Impairment,0-14,30000,17
+2024-12-31,Kimberley-Pilbara,Hearing Impairment,0-14,41000,14
+2024-12-31,Kimberley-Pilbara,Hearing Impairment,25-34,56000,15
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,0-14,37000,75
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,0-14,47000,25
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,15-24,78000,65
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,15-24,141000,87
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,25-34,126000,65
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,35-44,202000,28
+2024-12-31,Kimberley-Pilbara,Intellectual Disability,45-54,278000,20
+2024-12-31,Kimberley-Pilbara,Other,45-54,111000,12
+2024-12-31,Kimberley-Pilbara,Other,55-64,171000,14
+2024-12-31,Kimberley-Pilbara,Other Neurological,55-64,376000,14
+2024-12-31,Kimberley-Pilbara,Other Physical,45-54,96000,14
+2024-12-31,Kimberley-Pilbara,Psychosocial disability,25-34,115000,35
+2024-12-31,Kimberley-Pilbara,Psychosocial disability,35-44,124000,65
+2024-12-31,Kimberley-Pilbara,Psychosocial disability,45-54,107000,59
+2024-12-31,Kimberley-Pilbara,Psychosocial disability,55-64,175000,28
+2024-12-31,Kimberley-Pilbara,Stroke,45-54,225000,15
+2024-12-31,Kimberley-Pilbara,Stroke,55-64,250000,18
+2024-12-31,Midwest-Gascoyne,Autism,0-14,31000,282
+2024-12-31,Midwest-Gascoyne,Autism,0-14,37000,101
+2024-12-31,Midwest-Gascoyne,Autism,15-24,44000,117
+2024-12-31,Midwest-Gascoyne,Autism,15-24,86000,73
+2024-12-31,Midwest-Gascoyne,Autism,25-34,78000,54
+2024-12-31,Midwest-Gascoyne,Autism,35-44,91000,11
+2024-12-31,Midwest-Gascoyne,Developmental delay,0-14,30000,202
+2024-12-31,Midwest-Gascoyne,Global developmental delay,0-14,59000,22
+2024-12-31,Midwest-Gascoyne,Hearing Impairment,0-14,32000,14
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,0-14,35000,33
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,15-24,96000,28
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,15-24,103000,45
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,25-34,178000,40
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,35-44,182000,27
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,45-54,144000,12
+2024-12-31,Midwest-Gascoyne,Intellectual Disability,55-64,270000,16
+2024-12-31,Midwest-Gascoyne,Other Neurological,55-64,205000,20
+2024-12-31,Midwest-Gascoyne,Other Neurological,65+,215000,11
+2024-12-31,Midwest-Gascoyne,Other Physical,55-64,101000,14
+2024-12-31,Midwest-Gascoyne,Psychosocial disability,25-34,84000,15
+2024-12-31,Midwest-Gascoyne,Psychosocial disability,35-44,139000,28
+2024-12-31,Midwest-Gascoyne,Psychosocial disability,45-54,87000,26
+2024-12-31,Midwest-Gascoyne,Psychosocial disability,55-64,116000,27
+2024-12-31,Midwest-Gascoyne,Stroke,55-64,181000,13
+2024-12-31,North East Metro,ABI,15-24,120000,12
+2024-12-31,North East Metro,ABI,25-34,117000,14
+2024-12-31,North East Metro,ABI,35-44,230000,42
+2024-12-31,North East Metro,ABI,45-54,237000,54
+2024-12-31,North East Metro,ABI,55-64,266000,63
+2024-12-31,North East Metro,ABI,65+,274000,38
+2024-12-31,North East Metro,Autism,0-14,28000,1246
+2024-12-31,North East Metro,Autism,0-14,32000,562
+2024-12-31,North East Metro,Autism,15-24,39000,669
+2024-12-31,North East Metro,Autism,15-24,72000,583
+2024-12-31,North East Metro,Autism,25-34,108000,327
+2024-12-31,North East Metro,Autism,35-44,123000,145
+2024-12-31,North East Metro,Autism,45-54,129000,55
+2024-12-31,North East Metro,Autism,55-64,155000,22
+2024-12-31,North East Metro,Cerebral Palsy,0-14,116000,36
+2024-12-31,North East Metro,Cerebral Palsy,0-14,130000,49
+2024-12-31,North East Metro,Cerebral Palsy,15-24,115000,39
+2024-12-31,North East Metro,Cerebral Palsy,15-24,145000,38
+2024-12-31,North East Metro,Cerebral Palsy,25-34,176000,34
+2024-12-31,North East Metro,Cerebral Palsy,35-44,309000,29
+2024-12-31,North East Metro,Cerebral Palsy,45-54,277000,28
+2024-12-31,North East Metro,Cerebral Palsy,55-64,323000,26
+2024-12-31,North East Metro,Developmental delay,0-14,24000,726
+2024-12-31,North East Metro,Down Syndrome,0-14,34000,17
+2024-12-31,North East Metro,Down Syndrome,0-14,38000,20
+2024-12-31,North East Metro,Down Syndrome,15-24,142000,19
+2024-12-31,North East Metro,Down Syndrome,25-34,235000,30
+2024-12-31,North East Metro,Down Syndrome,35-44,163000,30
+2024-12-31,North East Metro,Down Syndrome,45-54,251000,18
+2024-12-31,North East Metro,Down Syndrome,55-64,305000,12
+2024-12-31,North East Metro,Global developmental delay,0-14,26000,165
+2024-12-31,North East Metro,Global developmental delay,0-14,29000,13
+2024-12-31,North East Metro,Hearing Impairment,0-14,14000,42
+2024-12-31,North East Metro,Hearing Impairment,0-14,21000,74
+2024-12-31,North East Metro,Hearing Impairment,15-24,14000,24
+2024-12-31,North East Metro,Hearing Impairment,15-24,14000,32
+2024-12-31,North East Metro,Hearing Impairment,25-34,17000,33
+2024-12-31,North East Metro,Hearing Impairment,35-44,17000,22
+2024-12-31,North East Metro,Hearing Impairment,45-54,32000,33
+2024-12-31,North East Metro,Hearing Impairment,55-64,24000,46
+2024-12-31,North East Metro,Hearing Impairment,65+,25000,23
+2024-12-31,North East Metro,Intellectual Disability,0-14,59000,128
+2024-12-31,North East Metro,Intellectual Disability,0-14,88000,43
+2024-12-31,North East Metro,Intellectual Disability,15-24,90000,118
+2024-12-31,North East Metro,Intellectual Disability,15-24,121000,174
+2024-12-31,North East Metro,Intellectual Disability,25-34,156000,216
+2024-12-31,North East Metro,Intellectual Disability,35-44,208000,145
+2024-12-31,North East Metro,Intellectual Disability,45-54,221000,138
+2024-12-31,North East Metro,Intellectual Disability,55-64,238000,132
+2024-12-31,North East Metro,Intellectual Disability,65+,259000,72
+2024-12-31,North East Metro,Multiple Sclerosis,35-44,41000,26
+2024-12-31,North East Metro,Multiple Sclerosis,45-54,135000,42
+2024-12-31,North East Metro,Multiple Sclerosis,55-64,148000,59
+2024-12-31,North East Metro,Multiple Sclerosis,65+,107000,38
+2024-12-31,North East Metro,Other,0-14,19000,25
+2024-12-31,North East Metro,Other,0-14,56000,20
+2024-12-31,North East Metro,Other,35-44,146000,18
+2024-12-31,North East Metro,Other,45-54,178000,20
+2024-12-31,North East Metro,Other,55-64,251000,47
+2024-12-31,North East Metro,Other,65+,163000,18
+2024-12-31,North East Metro,Other Neurological,0-14,64000,21
+2024-12-31,North East Metro,Other Neurological,15-24,52000,16
+2024-12-31,North East Metro,Other Neurological,15-24,161000,17
+2024-12-31,North East Metro,Other Neurological,25-34,263000,21
+2024-12-31,North East Metro,Other Neurological,35-44,172000,21
+2024-12-31,North East Metro,Other Neurological,45-54,195000,50
+2024-12-31,North East Metro,Other Neurological,55-64,238000,94
+2024-12-31,North East Metro,Other Neurological,65+,171000,78
+2024-12-31,North East Metro,Other Physical,0-14,72000,18
+2024-12-31,North East Metro,Other Physical,15-24,56000,18
+2024-12-31,North East Metro,Other Physical,25-34,125000,15
+2024-12-31,North East Metro,Other Physical,35-44,82000,26
+2024-12-31,North East Metro,Other Physical,45-54,114000,42
+2024-12-31,North East Metro,Other Physical,55-64,87000,78
+2024-12-31,North East Metro,Other Physical,65+,109000,73
+2024-12-31,North East Metro,Other Sensory/Speech,0-14,10000,16
+2024-12-31,North East Metro,Other Sensory/Speech,15-24,12000,11
+2024-12-31,North East Metro,Psychosocial disability,15-24,193000,19
+2024-12-31,North East Metro,Psychosocial disability,25-34,135000,138
+2024-12-31,North East Metro,Psychosocial disability,35-44,114000,204
+2024-12-31,North East Metro,Psychosocial disability,45-54,102000,214
+2024-12-31,North East Metro,Psychosocial disability,55-64,91000,208
+2024-12-31,North East Metro,Psychosocial disability,65+,107000,107
+2024-12-31,North East Metro,Spinal Cord Injury,35-44,250000,17
+2024-12-31,North East Metro,Spinal Cord Injury,45-54,189000,20
+2024-12-31,North East Metro,Spinal Cord Injury,55-64,177000,34
+2024-12-31,North East Metro,Spinal Cord Injury,65+,218000,17
+2024-12-31,North East Metro,Stroke,45-54,137000,23
+2024-12-31,North East Metro,Stroke,55-64,168000,44
+2024-12-31,North East Metro,Stroke,65+,210000,36
+2024-12-31,North East Metro,Visual Impairment,35-44,66000,12
+2024-12-31,North East Metro,Visual Impairment,45-54,77000,28
+2024-12-31,North East Metro,Visual Impairment,55-64,96000,40
+2024-12-31,North East Metro,Visual Impairment,65+,43000,21
+2024-12-31,North Metro,ABI,15-24,127000,14
+2024-12-31,North Metro,ABI,25-34,272000,16
+2024-12-31,North Metro,ABI,35-44,255000,33
+2024-12-31,North Metro,ABI,45-54,185000,44
+2024-12-31,North Metro,ABI,55-64,219000,45
+2024-12-31,North Metro,ABI,65+,220000,17
+2024-12-31,North Metro,Autism,0-14,32000,1352
+2024-12-31,North Metro,Autism,0-14,33000,539
+2024-12-31,North Metro,Autism,15-24,41000,718
+2024-12-31,North Metro,Autism,15-24,77000,567
+2024-12-31,North Metro,Autism,25-34,112000,284
+2024-12-31,North Metro,Autism,35-44,124000,132
+2024-12-31,North Metro,Autism,45-54,108000,47
+2024-12-31,North Metro,Autism,55-64,57000,11
+2024-12-31,North Metro,Cerebral Palsy,0-14,94000,50
+2024-12-31,North Metro,Cerebral Palsy,0-14,140000,47
+2024-12-31,North Metro,Cerebral Palsy,15-24,113000,46
+2024-12-31,North Metro,Cerebral Palsy,15-24,210000,52
+2024-12-31,North Metro,Cerebral Palsy,25-34,262000,47
+2024-12-31,North Metro,Cerebral Palsy,35-44,216000,22
+2024-12-31,North Metro,Cerebral Palsy,45-54,179000,15
+2024-12-31,North Metro,Developmental delay,0-14,25000,838
+2024-12-31,North Metro,Down Syndrome,0-14,47000,29
+2024-12-31,North Metro,Down Syndrome,0-14,55000,15
+2024-12-31,North Metro,Down Syndrome,15-24,95000,18
+2024-12-31,North Metro,Down Syndrome,15-24,134000,20
+2024-12-31,North Metro,Down Syndrome,25-34,166000,43
+2024-12-31,North Metro,Down Syndrome,35-44,147000,21
+2024-12-31,North Metro,Global developmental delay,0-14,21000,22
+2024-12-31,North Metro,Global developmental delay,0-14,33000,203
+2024-12-31,North Metro,Hearing Impairment,0-14,14000,67
+2024-12-31,North Metro,Hearing Impairment,0-14,18000,69
+2024-12-31,North Metro,Hearing Impairment,15-24,11000,42
+2024-12-31,North Metro,Hearing Impairment,15-24,16000,21
+2024-12-31,North Metro,Hearing Impairment,25-34,18000,34
+2024-12-31,North Metro,Hearing Impairment,35-44,21000,28
+2024-12-31,North Metro,Hearing Impairment,45-54,28000,27
+2024-12-31,North Metro,Hearing Impairment,55-64,30000,41
+2024-12-31,North Metro,Hearing Impairment,65+,21000,17
+2024-12-31,North Metro,Intellectual Disability,0-14,42000,139
+2024-12-31,North Metro,Intellectual Disability,0-14,72000,54
+2024-12-31,North Metro,Intellectual Disability,15-24,74000,112
+2024-12-31,North Metro,Intellectual Disability,15-24,121000,167
+2024-12-31,North Metro,Intellectual Disability,25-34,142000,240
+2024-12-31,North Metro,Intellectual Disability,35-44,205000,98
+2024-12-31,North Metro,Intellectual Disability,45-54,166000,79
+2024-12-31,North Metro,Intellectual Disability,55-64,156000,40
+2024-12-31,North Metro,Intellectual Disability,65+,280000,17
+2024-12-31,North Metro,Multiple Sclerosis,35-44,70000,25
+2024-12-31,North Metro,Multiple Sclerosis,45-54,110000,46
+2024-12-31,North Metro,Multiple Sclerosis,55-64,102000,65
+2024-12-31,North Metro,Multiple Sclerosis,65+,185000,30
+2024-12-31,North Metro,Other,0-14,22000,19
+2024-12-31,North Metro,Other,0-14,34000,12
+2024-12-31,North Metro,Other,35-44,113000,17
+2024-12-31,North Metro,Other,45-54,132000,12
+2024-12-31,North Metro,Other,55-64,174000,40
+2024-12-31,North Metro,Other,65+,165000,13
+2024-12-31,North Metro,Other Neurological,0-14,56000,27
+2024-12-31,North Metro,Other Neurological,0-14,105000,13
+2024-12-31,North Metro,Other Neurological,15-24,168000,18
+2024-12-31,North Metro,Other Neurological,35-44,213000,35
+2024-12-31,North Metro,Other Neurological,45-54,170000,39
+2024-12-31,North Metro,Other Neurological,55-64,212000,116
+2024-12-31,North Metro,Other Neurological,65+,217000,61
+2024-12-31,North Metro,Other Physical,0-14,55000,17
+2024-12-31,North Metro,Other Physical,15-24,63000,12
+2024-12-31,North Metro,Other Physical,25-34,70000,13
+2024-12-31,North Metro,Other Physical,35-44,95000,22
+2024-12-31,North Metro,Other Physical,45-54,129000,36
+2024-12-31,North Metro,Other Physical,55-64,100000,59
+2024-12-31,North Metro,Other Physical,65+,68000,47
+2024-12-31,North Metro,Psychosocial disability,15-24,159000,11
+2024-12-31,North Metro,Psychosocial disability,25-34,164000,84
+2024-12-31,North Metro,Psychosocial disability,35-44,116000,128
+2024-12-31,North Metro,Psychosocial disability,45-54,89000,127
+2024-12-31,North Metro,Psychosocial disability,55-64,93000,109
+2024-12-31,North Metro,Psychosocial disability,65+,76000,46
+2024-12-31,North Metro,Spinal Cord Injury,35-44,326000,18
+2024-12-31,North Metro,Spinal Cord Injury,45-54,299000,25
+2024-12-31,North Metro,Spinal Cord Injury,55-64,269000,23
+2024-12-31,North Metro,Spinal Cord Injury,65+,283000,13
+2024-12-31,North Metro,Stroke,45-54,254000,18
+2024-12-31,North Metro,Stroke,55-64,194000,40
+2024-12-31,North Metro,Stroke,65+,210000,27
+2024-12-31,North Metro,Visual Impairment,0-14,24000,13
+2024-12-31,North Metro,Visual Impairment,35-44,66000,13
+2024-12-31,North Metro,Visual Impairment,45-54,47000,15
+2024-12-31,North Metro,Visual Impairment,55-64,83000,19
+2024-12-31,North Metro,Visual Impairment,65+,85000,14
+2024-12-31,South East Metro,ABI,25-34,148000,29
+2024-12-31,South East Metro,ABI,35-44,238000,50
+2024-12-31,South East Metro,ABI,45-54,249000,59
+2024-12-31,South East Metro,ABI,55-64,320000,59
+2024-12-31,South East Metro,ABI,65+,283000,25
+2024-12-31,South East Metro,Autism,0-14,33000,365
+2024-12-31,South East Metro,Autism,0-14,34000,838
+2024-12-31,South East Metro,Autism,15-24,47000,442
+2024-12-31,South East Metro,Autism,15-24,88000,364
+2024-12-31,South East Metro,Autism,25-34,118000,239
+2024-12-31,South East Metro,Autism,35-44,123000,78
+2024-12-31,South East Metro,Autism,45-54,151000,41
+2024-12-31,South East Metro,Autism,55-64,153000,18
+2024-12-31,South East Metro,Cerebral Palsy,0-14,99000,33
+2024-12-31,South East Metro,Cerebral Palsy,0-14,115000,32
+2024-12-31,South East Metro,Cerebral Palsy,15-24,130000,24
+2024-12-31,South East Metro,Cerebral Palsy,15-24,145000,27
+2024-12-31,South East Metro,Cerebral Palsy,25-34,257000,36
+2024-12-31,South East Metro,Cerebral Palsy,35-44,283000,31
+2024-12-31,South East Metro,Cerebral Palsy,45-54,336000,27
+2024-12-31,South East Metro,Cerebral Palsy,55-64,359000,25
+2024-12-31,South East Metro,Developmental delay,0-14,24000,687
+2024-12-31,South East Metro,Down Syndrome,0-14,34000,23
+2024-12-31,South East Metro,Down Syndrome,0-14,53000,20
+2024-12-31,South East Metro,Down Syndrome,15-24,90000,12
+2024-12-31,South East Metro,Down Syndrome,25-34,181000,29
+2024-12-31,South East Metro,Down Syndrome,35-44,177000,21
+2024-12-31,South East Metro,Down Syndrome,45-54,296000,16
+2024-12-31,South East Metro,Global developmental delay,0-14,22000,11
+2024-12-31,South East Metro,Global developmental delay,0-14,34000,111
+2024-12-31,South East Metro,Hearing Impairment,0-14,12000,57
+2024-12-31,South East Metro,Hearing Impairment,0-14,21000,48
+2024-12-31,South East Metro,Hearing Impairment,15-24,13000,25
+2024-12-31,South East Metro,Hearing Impairment,15-24,16000,37
+2024-12-31,South East Metro,Hearing Impairment,25-34,20000,27
+2024-12-31,South East Metro,Hearing Impairment,35-44,22000,27
+2024-12-31,South East Metro,Hearing Impairment,45-54,27000,36
+2024-12-31,South East Metro,Hearing Impairment,55-64,23000,36
+2024-12-31,South East Metro,Hearing Impairment,65+,22000,18
+2024-12-31,South East Metro,Intellectual Disability,0-14,54000,40
+2024-12-31,South East Metro,Intellectual Disability,0-14,58000,66
+2024-12-31,South East Metro,Intellectual Disability,15-24,98000,110
+2024-12-31,South East Metro,Intellectual Disability,15-24,166000,152
+2024-12-31,South East Metro,Intellectual Disability,25-34,151000,194
+2024-12-31,South East Metro,Intellectual Disability,35-44,199000,149
+2024-12-31,South East Metro,Intellectual Disability,45-54,189000,97
+2024-12-31,South East Metro,Intellectual Disability,55-64,229000,105
+2024-12-31,South East Metro,Intellectual Disability,65+,268000,45
+2024-12-31,South East Metro,Multiple Sclerosis,35-44,95000,20
+2024-12-31,South East Metro,Multiple Sclerosis,45-54,94000,20
+2024-12-31,South East Metro,Multiple Sclerosis,55-64,139000,31
+2024-12-31,South East Metro,Multiple Sclerosis,65+,112000,20
+2024-12-31,South East Metro,Other,0-14,18000,13
+2024-12-31,South East Metro,Other,35-44,88000,12
+2024-12-31,South East Metro,Other,45-54,123000,17
+2024-12-31,South East Metro,Other,55-64,143000,48
+2024-12-31,South East Metro,Other,65+,253000,27
+2024-12-31,South East Metro,Other Neurological,25-34,146000,19
+2024-12-31,South East Metro,Other Neurological,35-44,234000,19
+2024-12-31,South East Metro,Other Neurological,45-54,280000,35
+2024-12-31,South East Metro,Other Neurological,55-64,247000,95
+2024-12-31,South East Metro,Other Neurological,65+,263000,68
+2024-12-31,South East Metro,Other Physical,35-44,102000,19
+2024-12-31,South East Metro,Other Physical,45-54,137000,35
+2024-12-31,South East Metro,Other Physical,55-64,105000,57
+2024-12-31,South East Metro,Other Physical,65+,168000,36
+2024-12-31,South East Metro,Psychosocial disability,15-24,220000,18
+2024-12-31,South East Metro,Psychosocial disability,25-34,123000,114
+2024-12-31,South East Metro,Psychosocial disability,35-44,123000,197
+2024-12-31,South East Metro,Psychosocial disability,45-54,103000,191
+2024-12-31,South East Metro,Psychosocial disability,55-64,115000,180
+2024-12-31,South East Metro,Psychosocial disability,65+,112000,48
+2024-12-31,South East Metro,Spinal Cord Injury,45-54,221000,22
+2024-12-31,South East Metro,Spinal Cord Injury,55-64,196000,18
+2024-12-31,South East Metro,Spinal Cord Injury,65+,232000,17
+2024-12-31,South East Metro,Stroke,45-54,169000,18
+2024-12-31,South East Metro,Stroke,55-64,215000,55
+2024-12-31,South East Metro,Stroke,65+,285000,22
+2024-12-31,South East Metro,Visual Impairment,15-24,23000,11
+2024-12-31,South East Metro,Visual Impairment,25-34,34000,12
+2024-12-31,South East Metro,Visual Impairment,35-44,74000,19
+2024-12-31,South East Metro,Visual Impairment,45-54,55000,28
+2024-12-31,South East Metro,Visual Impairment,55-64,83000,28
+2024-12-31,South East Metro,Visual Impairment,65+,68000,15
+2024-12-31,South Metro,ABI,0-14,92000,14
+2024-12-31,South Metro,ABI,15-24,70000,13
+2024-12-31,South Metro,ABI,15-24,253000,14
+2024-12-31,South Metro,ABI,25-34,162000,26
+2024-12-31,South Metro,ABI,35-44,191000,33
+2024-12-31,South Metro,ABI,45-54,275000,61
+2024-12-31,South Metro,ABI,55-64,252000,83
+2024-12-31,South Metro,ABI,65+,194000,22
+2024-12-31,South Metro,Autism,0-14,27000,1632
+2024-12-31,South Metro,Autism,0-14,28000,651
+2024-12-31,South Metro,Autism,15-24,41000,815
+2024-12-31,South Metro,Autism,15-24,59000,555
+2024-12-31,South Metro,Autism,25-34,88000,295
+2024-12-31,South Metro,Autism,35-44,87000,130
+2024-12-31,South Metro,Autism,45-54,76000,45
+2024-12-31,South Metro,Autism,55-64,120000,20
+2024-12-31,South Metro,Cerebral Palsy,0-14,65000,57
+2024-12-31,South Metro,Cerebral Palsy,0-14,122000,44
+2024-12-31,South Metro,Cerebral Palsy,15-24,125000,33
+2024-12-31,South Metro,Cerebral Palsy,15-24,146000,35
+2024-12-31,South Metro,Cerebral Palsy,25-34,283000,33
+2024-12-31,South Metro,Cerebral Palsy,35-44,325000,25
+2024-12-31,South Metro,Cerebral Palsy,45-54,134000,18
+2024-12-31,South Metro,Developmental delay,0-14,25000,1077
+2024-12-31,South Metro,Down Syndrome,0-14,36000,34
+2024-12-31,South Metro,Down Syndrome,0-14,50000,26
+2024-12-31,South Metro,Down Syndrome,15-24,112000,13
+2024-12-31,South Metro,Down Syndrome,15-24,122000,21
+2024-12-31,South Metro,Down Syndrome,25-34,168000,35
+2024-12-31,South Metro,Down Syndrome,35-44,251000,19
+2024-12-31,South Metro,Down Syndrome,45-54,219000,15
+2024-12-31,South Metro,Down Syndrome,55-64,301000,13
+2024-12-31,South Metro,Global developmental delay,0-14,17000,29
+2024-12-31,South Metro,Global developmental delay,0-14,33000,191
+2024-12-31,South Metro,Hearing Impairment,0-14,11000,54
+2024-12-31,South Metro,Hearing Impairment,0-14,20000,66
+2024-12-31,South Metro,Hearing Impairment,15-24,12000,28
+2024-12-31,South Metro,Hearing Impairment,15-24,13000,28
+2024-12-31,South Metro,Hearing Impairment,25-34,15000,37
+2024-12-31,South Metro,Hearing Impairment,35-44,21000,30
+2024-12-31,South Metro,Hearing Impairment,45-54,24000,41
+2024-12-31,South Metro,Hearing Impairment,55-64,22000,55
+2024-12-31,South Metro,Hearing Impairment,65+,23000,30
+2024-12-31,South Metro,Intellectual Disability,0-14,46000,170
+2024-12-31,South Metro,Intellectual Disability,0-14,81000,59
+2024-12-31,South Metro,Intellectual Disability,15-24,56000,156
+2024-12-31,South Metro,Intellectual Disability,15-24,110000,240
+2024-12-31,South Metro,Intellectual Disability,25-34,157000,296
+2024-12-31,South Metro,Intellectual Disability,35-44,179000,164
+2024-12-31,South Metro,Intellectual Disability,45-54,188000,114
+2024-12-31,South Metro,Intellectual Disability,55-64,186000,90
+2024-12-31,South Metro,Intellectual Disability,65+,230000,35
+2024-12-31,South Metro,Multiple Sclerosis,25-34,128000,12
+2024-12-31,South Metro,Multiple Sclerosis,35-44,54000,27
+2024-12-31,South Metro,Multiple Sclerosis,45-54,71000,39
+2024-12-31,South Metro,Multiple Sclerosis,55-64,98000,69
+2024-12-31,South Metro,Multiple Sclerosis,65+,88000,40
+2024-12-31,South Metro,Other,0-14,16000,23
+2024-12-31,South Metro,Other,0-14,23000,17
+2024-12-31,South Metro,Other,25-34,76000,14
+2024-12-31,South Metro,Other,35-44,120000,11
+2024-12-31,South Metro,Other,45-54,146000,26
+2024-12-31,South Metro,Other,55-64,183000,36
+2024-12-31,South Metro,Other,65+,158000,25
+2024-12-31,South Metro,Other Neurological,0-14,57000,13
+2024-12-31,South Metro,Other Neurological,0-14,117000,26
+2024-12-31,South Metro,Other Neurological,15-24,85000,18
+2024-12-31,South Metro,Other Neurological,15-24,156000,17
+2024-12-31,South Metro,Other Neurological,25-34,241000,21
+2024-12-31,South Metro,Other Neurological,35-44,142000,35
+2024-12-31,South Metro,Other Neurological,45-54,235000,47
+2024-12-31,South Metro,Other Neurological,55-64,199000,129
+2024-12-31,South Metro,Other Neurological,65+,199000,79
+2024-12-31,South Metro,Other Physical,0-14,65000,15
+2024-12-31,South Metro,Other Physical,15-24,24000,17
+2024-12-31,South Metro,Other Physical,15-24,91000,14
+2024-12-31,South Metro,Other Physical,25-34,110000,17
+2024-12-31,South Metro,Other Physical,35-44,116000,31
+2024-12-31,South Metro,Other Physical,45-54,87000,43
+2024-12-31,South Metro,Other Physical,55-64,95000,103
+2024-12-31,South Metro,Other Physical,65+,136000,69
+2024-12-31,South Metro,Psychosocial disability,15-24,133000,13
+2024-12-31,South Metro,Psychosocial disability,25-34,150000,81
+2024-12-31,South Metro,Psychosocial disability,35-44,113000,137
+2024-12-31,South Metro,Psychosocial disability,45-54,113000,175
+2024-12-31,South Metro,Psychosocial disability,55-64,94000,154
+2024-12-31,South Metro,Psychosocial disability,65+,91000,63
+2024-12-31,South Metro,Spinal Cord Injury,25-34,225000,12
+2024-12-31,South Metro,Spinal Cord Injury,35-44,310000,24
+2024-12-31,South Metro,Spinal Cord Injury,45-54,126000,20
+2024-12-31,South Metro,Spinal Cord Injury,55-64,162000,24
+2024-12-31,South Metro,Spinal Cord Injury,65+,227000,13
+2024-12-31,South Metro,Stroke,45-54,128000,16
+2024-12-31,South Metro,Stroke,55-64,189000,44
+2024-12-31,South Metro,Stroke,65+,173000,46
+2024-12-31,South Metro,Visual Impairment,0-14,25000,12
+2024-12-31,South Metro,Visual Impairment,25-34,71000,12
+2024-12-31,South Metro,Visual Impairment,45-54,71000,14
+2024-12-31,South Metro,Visual Impairment,55-64,75000,52
+2024-12-31,South Metro,Visual Impairment,65+,69000,21
+2024-12-31,South West,ABI,35-44,244000,13
+2024-12-31,South West,ABI,45-54,160000,21
+2024-12-31,South West,ABI,55-64,199000,27
+2024-12-31,South West,ABI,65+,112000,15
+2024-12-31,South West,Autism,0-14,29000,782
+2024-12-31,South West,Autism,0-14,31000,221
+2024-12-31,South West,Autism,15-24,36000,405
+2024-12-31,South West,Autism,15-24,74000,300
+2024-12-31,South West,Autism,25-34,73000,154
+2024-12-31,South West,Autism,35-44,76000,63
+2024-12-31,South West,Autism,45-54,77000,21
+2024-12-31,South West,Cerebral Palsy,0-14,80000,28
+2024-12-31,South West,Cerebral Palsy,0-14,230000,17
+2024-12-31,South West,Cerebral Palsy,15-24,71000,14
+2024-12-31,South West,Cerebral Palsy,15-24,222000,16
+2024-12-31,South West,Cerebral Palsy,25-34,168000,16
+2024-12-31,South West,Cerebral Palsy,35-44,278000,15
+2024-12-31,South West,Developmental delay,0-14,24000,299
+2024-12-31,South West,Down Syndrome,0-14,37000,12
+2024-12-31,South West,Down Syndrome,15-24,156000,13
+2024-12-31,South West,Down Syndrome,25-34,205000,18
+2024-12-31,South West,Down Syndrome,45-54,202000,12
+2024-12-31,South West,Global developmental delay,0-14,37000,91
+2024-12-31,South West,Hearing Impairment,0-14,14000,20
+2024-12-31,South West,Hearing Impairment,0-14,23000,34
+2024-12-31,South West,Hearing Impairment,15-24,9000,15
+2024-12-31,South West,Hearing Impairment,15-24,14000,18
+2024-12-31,South West,Hearing Impairment,25-34,11000,11
+2024-12-31,South West,Hearing Impairment,35-44,11000,15
+2024-12-31,South West,Hearing Impairment,45-54,22000,17
+2024-12-31,South West,Hearing Impairment,55-64,12000,22
+2024-12-31,South West,Hearing Impairment,65+,47000,12
+2024-12-31,South West,Intellectual Disability,0-14,41000,59
+2024-12-31,South West,Intellectual Disability,0-14,55000,17
+2024-12-31,South West,Intellectual Disability,15-24,55000,71
+2024-12-31,South West,Intellectual Disability,15-24,113000,126
+2024-12-31,South West,Intellectual Disability,25-34,119000,157
+2024-12-31,South West,Intellectual Disability,35-44,158000,102
+2024-12-31,South West,Intellectual Disability,45-54,154000,72
+2024-12-31,South West,Intellectual Disability,55-64,181000,69
+2024-12-31,South West,Intellectual Disability,65+,210000,31
+2024-12-31,South West,Multiple Sclerosis,45-54,77000,31
+2024-12-31,South West,Multiple Sclerosis,55-64,182000,40
+2024-12-31,South West,Multiple Sclerosis,65+,100000,27
+2024-12-31,South West,Other,45-54,85000,18
+2024-12-31,South West,Other,55-64,159000,27
+2024-12-31,South West,Other,65+,127000,20
+2024-12-31,South West,Other Neurological,25-34,218000,14
+2024-12-31,South West,Other Neurological,35-44,161000,20
+2024-12-31,South West,Other Neurological,45-54,140000,39
+2024-12-31,South West,Other Neurological,55-64,180000,76
+2024-12-31,South West,Other Neurological,65+,189000,49
+2024-12-31,South West,Other Physical,35-44,149000,16
+2024-12-31,South West,Other Physical,45-54,71000,22
+2024-12-31,South West,Other Physical,55-64,98000,60
+2024-12-31,South West,Other Physical,65+,108000,54
+2024-12-31,South West,Psychosocial disability,15-24,173000,11
+2024-12-31,South West,Psychosocial disability,25-34,78000,70
+2024-12-31,South West,Psychosocial disability,35-44,78000,100
+2024-12-31,South West,Psychosocial disability,45-54,88000,114
+2024-12-31,South West,Psychosocial disability,55-64,80000,129
+2024-12-31,South West,Psychosocial disability,65+,66000,54
+2024-12-31,South West,Spinal Cord Injury,45-54,196000,17
+2024-12-31,South West,Spinal Cord Injury,55-64,272000,12
+2024-12-31,South West,Stroke,45-54,145000,12
+2024-12-31,South West,Stroke,55-64,200000,30
+2024-12-31,South West,Stroke,65+,111000,17
+2024-12-31,South West,Visual Impairment,35-44,60000,14
+2024-12-31,South West,Visual Impairment,45-54,47000,12
+2024-12-31,South West,Visual Impairment,55-64,83000,11
+2024-12-31,Wheat Belt,ABI,55-64,148000,11
+2024-12-31,Wheat Belt,Autism,0-14,29000,202
+2024-12-31,Wheat Belt,Autism,0-14,41000,72
+2024-12-31,Wheat Belt,Autism,15-24,34000,128
+2024-12-31,Wheat Belt,Autism,15-24,52000,70
+2024-12-31,Wheat Belt,Autism,25-34,52000,40
+2024-12-31,Wheat Belt,Autism,35-44,55000,22
+2024-12-31,Wheat Belt,Developmental delay,0-14,28000,71
+2024-12-31,Wheat Belt,Global developmental delay,0-14,28000,19
+2024-12-31,Wheat Belt,Intellectual Disability,0-14,37000,40
+2024-12-31,Wheat Belt,Intellectual Disability,15-24,53000,28
+2024-12-31,Wheat Belt,Intellectual Disability,15-24,92000,39
+2024-12-31,Wheat Belt,Intellectual Disability,25-34,55000,44
+2024-12-31,Wheat Belt,Intellectual Disability,35-44,108000,28
+2024-12-31,Wheat Belt,Intellectual Disability,45-54,169000,18
+2024-12-31,Wheat Belt,Intellectual Disability,55-64,157000,19
+2024-12-31,Wheat Belt,Multiple Sclerosis,55-64,79000,16
+2024-12-31,Wheat Belt,Other,55-64,142000,19
+2024-12-31,Wheat Belt,Other Neurological,55-64,180000,18
+2024-12-31,Wheat Belt,Other Neurological,65+,148000,11
+2024-12-31,Wheat Belt,Other Physical,55-64,73000,26
+2024-12-31,Wheat Belt,Other Physical,65+,76000,12
+2024-12-31,Wheat Belt,Psychosocial disability,25-34,87000,18
+2024-12-31,Wheat Belt,Psychosocial disability,35-44,97000,27
+2024-12-31,Wheat Belt,Psychosocial disability,45-54,68000,33
+2024-12-31,Wheat Belt,Psychosocial disability,55-64,85000,35
+2024-12-31,Wheat Belt,Psychosocial disability,65+,86000,15
+2024-12-31,Wheat Belt,Stroke,55-64,151000,13
