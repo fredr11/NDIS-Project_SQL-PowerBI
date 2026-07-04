@@ -351,42 +351,6 @@ The analysis can support organizations by:
 
 ---
 
-## Skills Demonstrated
-
-### Analytics
-
-- Exploratory Data Analysis (EDA)
-- Trend Analysis
-- Forecasting
-- KPI Development
-- Business Intelligence
-
-### Data Engineering
-
-- Data Cleaning
-- Data Validation
-- Data Integration
-- Data Transformation
-- Data Standardization
-
-### Technical
-
-- SQL
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-
-### Business
-
-- Stakeholder-Oriented Reporting
-- Strategic Planning Support
-- Data Storytelling
-- Insight Generation
-- Geographic Analysis
-
----
-
 ## Future Enhancements
 
 Potential future improvements include:
