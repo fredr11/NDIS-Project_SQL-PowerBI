@@ -48,7 +48,7 @@ The analysis was designed to answer the following questions:
 
 - Which participant groups receive the highest average funding allocations?
 - How does funding vary across age groups, disability types, and regions?
-- Are funding patterns consistent across Australia?
+- Are funding patterns consistent across Western Australia?
 
 ### Geographic Analysis
 
@@ -267,19 +267,19 @@ The Power BI solution enables users to explore trends through interactive filter
 
 ### Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/fredr11/NDIS-Project_SQL-PowerBI/refs/heads/main/Power%20BI/Screenshots/Top%20Numbers.png)
+![Executive Overview](Power%20BI/Screenshots/Top%20Numbers.png)
 
-**Business Insight:** Provides a high-level view of participant growth, funding allocation, and key trends across Australia.
+**Business Insight:** Provides a high-level view of participant growth, funding allocation, and key trends across Western Australia.
 
 ### Growth Analysis
 
-![Growth Analysis](https://raw.githubusercontent.com/fredr11/NDIS-Project_SQL-PowerBI/refs/heads/main/Power%20BI/Screenshots/Insights.png)
+![Growth Analysis](Power%20BI/Screenshots/Insights.png)
 
 **Business Insight:** Identifies regions where participant demand is growing faster than population growth.
 
 ### Funding Distribution
 
-![Funding Distribution](https://raw.githubusercontent.com/fredr11/NDIS-Project_SQL-PowerBI/refs/heads/main/Power%20BI/Screenshots/Insights.png)
+![Funding Distribution](Power%20BI/Screenshots/Overview.png)
 
 **Business Insight:** Highlights differences in average funding across disability types, age groups, and service districts.
 
