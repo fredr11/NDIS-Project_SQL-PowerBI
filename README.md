@@ -325,8 +325,7 @@ The analysis can support organizations by:
 
 ```text
 ├── data/
-│   ├── raw/
-│   │   └── source_datasets
+│   ├── source_datasets/      # 10 original source files
 │   │
 │   └── processed/
 │       ├── budgets.csv
