@@ -324,27 +324,30 @@ The analysis can support organizations by:
 ## Repository Structure
 
 ```text
-├── Data
-│   ├── Raw
-│   │   └── Source Datasets
+├── data/
+│   ├── raw/
+│   │   └── source_datasets
 │   │
-│   └── Processed
-│       ├── Budgets.csv
-│       ├── Participants.csv
-│       ├── Population.csv
-│       ├── First_Nations_Participants.csv
-│       └── Geographical_Data.csv
+│   └── processed/
+│       ├── budgets.csv
+│       ├── participants.csv
+│       ├── population.csv
+│       ├── first_nations_participants.csv
+│       └── geographical_data.csv
 │
-├── SQL Queries
-│   ├── Budgets.sql
-│   ├── Participants.sql
-│   ├── Population.sql
-│   ├── First Nations Participants.sql
-│   └── Geographical Data.sql
+├── sql_queries/
+│   ├── budgets.sql
+│   ├── participants.sql
+│   ├── population.sql
+│   ├── first_nations_participants.sql
+│   └── geographical_data.sql
 │
-├── Power BI
-│   ├── NDIS Project.pbix
-│   └── Screenshots
+├── power_bi/
+│   ├── ndis_project.pbix
+│   └── screenshots/
+│       ├── insights.png
+│       ├── overview.png
+│       └── top_numbers.png
 │
 └── README.md
 ```
