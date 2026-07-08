@@ -267,19 +267,19 @@ The Power BI solution enables users to explore trends through interactive filter
 
 ### Executive Overview
 
-![Executive Overview](Power%20BI/Screenshots/Top%20Numbers.png)
+![Executive Overview](power_bi/screenshots/top_numbers.png)
 
 **Business Insight:** Provides a high-level view of participant growth, funding allocation, and key trends across Western Australia.
 
 ### Growth Analysis
 
-![Growth Analysis](Power%20BI/Screenshots/Insights.png)
+![Growth Analysis](power_bi/screenshots/insights.png)
 
 **Business Insight:** Identifies regions where participant demand is growing faster than population growth.
 
 ### Funding Distribution
 
-![Funding Distribution](Power%20BI/Screenshots/Overview.png)
+![Funding Distribution](power_bi/screenshots/overview.png)
 
 **Business Insight:** Highlights differences in average funding across disability types, age groups, and service districts.
 
